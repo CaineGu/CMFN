@@ -1,0 +1,8 @@
+RESUME:False
+FLAG:train
+DEVICE:cuda:0
+BATCH_SIZE:128
+MAX_EPOCH:260
+CLASS:couch
+VERSION:4.16
+{'cat': 'couch', 'emb_dims': 256, 'dropout': 0.5, 'k': 20, 'k_pool1': 16, 'k_pool2': 6, 'pool1_points': 512, 'pool2_points': 128, 'scoring_fun': 'tanh', 'num_branch': 8, 'K1': 64, 'K2': 64, 'N': 128, 'method': 'integrated', 'alpha': 0.01, 'd_attn': 256, 'num_heads': 4, 'in_num': 1024, 'out_num': 256, 'batch_size': 128, 'nThreads': 12, 'lr': 0.001, 'dataroot': '/root/autodl-tmp/datapath', 'n_epochs': 260, 'ckp_dir': './checkpoints_path', 'ckp_epoch': 5, 'eval_epoch': 5, 'resume': '', 'loss_print': 500, 'vis_step': 1}

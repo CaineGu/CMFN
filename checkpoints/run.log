@@ -1,0 +1,3353 @@
+<config.params object at 0x7ff5fde30d30>
+Train 1, loss: 0.31237935
+best_epoch 1, best_loss: 3306.12403186
+<config.params object at 0x7f82aa4fad30>
+<config.params object at 0x7fa6b3ef3d30>
+Train 1, loss: 0.31511694
+best_epoch 1, best_loss: 3310.31378805
+<config.params object at 0x7f6e7e5d6d30>
+Train 1, loss: 0.30648141
+best_epoch 1, best_loss: 3309.03564874
+Train 2, loss: 0.30678809
+best_epoch 2, best_loss: 3136.43759261
+<config.params object at 0x7f977f21ad30>
+<config.params object at 0x7f079889fd30>
+Train 1, loss: 0.04715925
+best_epoch 1, best_loss: 48.22179216
+Train 2, loss: 0.03857011
+best_epoch 2, best_loss: 43.40043509
+Train 3, loss: 0.03736801
+best_epoch 2, best_loss: 43.40043509
+Train 4, loss: 0.03662991
+best_epoch 4, best_loss: 38.19059740
+Train 5, loss: 0.03606171
+best_epoch 4, best_loss: 38.19059740
+<config.params object at 0x7f7ba1b63d30>
+<config.params object at 0x7f91a78f9d30>
+<config.params object at 0x7f4629f08d30>
+Train 1, loss: 0.02314303
+best_epoch 1, best_loss: 22.34648862
+Train 2, loss: 0.02122313
+best_epoch 1, best_loss: 22.34648862
+Train 3, loss: 0.02101135
+best_epoch 1, best_loss: 22.34648862
+Train 4, loss: 0.02039849
+best_epoch 4, best_loss: 21.47033057
+Train 5, loss: 0.02022386
+best_epoch 4, best_loss: 21.47033057
+Train 6, loss: 0.01996012
+best_epoch 6, best_loss: 20.06167139
+Train 7, loss: 0.02014130
+best_epoch 6, best_loss: 20.06167139
+Train 8, loss: 0.01979557
+best_epoch 6, best_loss: 20.06167139
+Train 9, loss: 0.01976085
+best_epoch 6, best_loss: 20.06167139
+Train 10, loss: 0.01976252
+best_epoch 6, best_loss: 20.06167139
+Train 11, loss: 0.01957365
+best_epoch 11, best_loss: 17.62293628
+Train 12, loss: 0.01925542
+best_epoch 11, best_loss: 17.62293628
+Train 13, loss: 0.01926107
+best_epoch 11, best_loss: 17.62293628
+Train 14, loss: 0.01899663
+best_epoch 11, best_loss: 17.62293628
+Train 15, loss: 0.01960678
+best_epoch 11, best_loss: 17.62293628
+Train 16, loss: 0.01881208
+best_epoch 11, best_loss: 17.62293628
+Train 17, loss: 0.01884774
+best_epoch 11, best_loss: 17.62293628
+Train 18, loss: 0.01889357
+best_epoch 11, best_loss: 17.62293628
+Train 19, loss: 0.01876932
+best_epoch 11, best_loss: 17.62293628
+Train 20, loss: 0.01871084
+best_epoch 11, best_loss: 17.62293628
+Train 21, loss: 0.01874079
+best_epoch 11, best_loss: 17.62293628
+Train 22, loss: 0.01884783
+best_epoch 11, best_loss: 17.62293628
+Train 23, loss: 0.01916720
+best_epoch 11, best_loss: 17.62293628
+Train 24, loss: 0.01882957
+best_epoch 11, best_loss: 17.62293628
+Train 25, loss: 0.02042872
+best_epoch 11, best_loss: 17.62293628
+Train 26, loss: 0.01879530
+best_epoch 11, best_loss: 17.62293628
+Train 27, loss: 0.01861547
+best_epoch 11, best_loss: 17.62293628
+Train 28, loss: 0.01824941
+best_epoch 11, best_loss: 17.62293628
+Train 29, loss: 0.01853583
+best_epoch 11, best_loss: 17.62293628
+Train 30, loss: 0.01904496
+best_epoch 11, best_loss: 17.62293628
+Train 31, loss: 0.01886318
+best_epoch 11, best_loss: 17.62293628
+Train 32, loss: 0.01841108
+best_epoch 11, best_loss: 17.62293628
+Train 33, loss: 0.01829019
+best_epoch 11, best_loss: 17.62293628
+Train 34, loss: 0.01962741
+best_epoch 11, best_loss: 17.62293628
+Train 35, loss: 0.01876446
+best_epoch 11, best_loss: 17.62293628
+Train 36, loss: 0.01965912
+best_epoch 11, best_loss: 17.62293628
+Train 37, loss: 0.01898788
+best_epoch 11, best_loss: 17.62293628
+Train 38, loss: 0.01877284
+best_epoch 11, best_loss: 17.62293628
+Train 39, loss: 0.01802161
+best_epoch 11, best_loss: 17.62293628
+Train 40, loss: 0.01769316
+best_epoch 11, best_loss: 17.62293628
+Train 41, loss: 0.01807832
+best_epoch 11, best_loss: 17.62293628
+Train 42, loss: 0.01723585
+best_epoch 11, best_loss: 17.62293628
+Train 43, loss: 0.01792506
+best_epoch 11, best_loss: 17.62293628
+Train 44, loss: 0.01713292
+best_epoch 11, best_loss: 17.62293628
+Train 45, loss: 0.01809558
+best_epoch 11, best_loss: 17.62293628
+Train 46, loss: 0.01876897
+best_epoch 11, best_loss: 17.62293628
+Train 47, loss: 0.01788238
+best_epoch 11, best_loss: 17.62293628
+Train 48, loss: 0.01754130
+best_epoch 11, best_loss: 17.62293628
+Train 49, loss: 0.01754625
+best_epoch 11, best_loss: 17.62293628
+Train 50, loss: 0.01697602
+best_epoch 11, best_loss: 17.62293628
+Train 51, loss: 0.01797630
+best_epoch 11, best_loss: 17.62293628
+Train 52, loss: 0.01776917
+best_epoch 11, best_loss: 17.62293628
+Train 53, loss: 0.01797596
+best_epoch 11, best_loss: 17.62293628
+Train 54, loss: 0.01753656
+best_epoch 11, best_loss: 17.62293628
+Train 55, loss: 0.01776073
+best_epoch 11, best_loss: 17.62293628
+Train 56, loss: 0.01729972
+best_epoch 11, best_loss: 17.62293628
+Train 57, loss: 0.01766422
+best_epoch 11, best_loss: 17.62293628
+Train 58, loss: 0.01789096
+best_epoch 11, best_loss: 17.62293628
+Train 59, loss: 0.01751774
+best_epoch 11, best_loss: 17.62293628
+Train 60, loss: 0.01788653
+best_epoch 11, best_loss: 17.62293628
+Train 61, loss: 0.01831771
+best_epoch 11, best_loss: 17.62293628
+Train 62, loss: 0.01766427
+best_epoch 11, best_loss: 17.62293628
+Train 63, loss: 0.01711790
+best_epoch 11, best_loss: 17.62293628
+Train 64, loss: 0.01940564
+best_epoch 11, best_loss: 17.62293628
+Train 65, loss: 0.01917933
+best_epoch 11, best_loss: 17.62293628
+Train 66, loss: 0.01784790
+best_epoch 11, best_loss: 17.62293628
+Train 67, loss: 0.01819386
+best_epoch 11, best_loss: 17.62293628
+Train 68, loss: 0.01913989
+best_epoch 11, best_loss: 17.62293628
+Train 69, loss: 0.02107860
+best_epoch 11, best_loss: 17.62293628
+Train 70, loss: 0.01922731
+best_epoch 11, best_loss: 17.62293628
+Train 71, loss: 0.01902550
+best_epoch 11, best_loss: 17.62293628
+Train 72, loss: 0.02013533
+best_epoch 11, best_loss: 17.62293628
+Train 73, loss: 0.02082437
+best_epoch 11, best_loss: 17.62293628
+Train 74, loss: 0.02085741
+best_epoch 11, best_loss: 17.62293628
+Train 75, loss: 0.02032205
+best_epoch 11, best_loss: 17.62293628
+Train 76, loss: 0.02022205
+best_epoch 11, best_loss: 17.62293628
+Train 77, loss: 0.02020601
+best_epoch 11, best_loss: 17.62293628
+Train 78, loss: 0.01971096
+best_epoch 11, best_loss: 17.62293628
+Train 79, loss: 0.01975390
+best_epoch 11, best_loss: 17.62293628
+Train 80, loss: 0.01925237
+best_epoch 11, best_loss: 17.62293628
+Train 81, loss: 0.01943975
+best_epoch 11, best_loss: 17.62293628
+Train 82, loss: 0.01874751
+best_epoch 11, best_loss: 17.62293628
+Train 83, loss: 0.01893420
+best_epoch 11, best_loss: 17.62293628
+Train 84, loss: 0.01901111
+best_epoch 11, best_loss: 17.62293628
+Train 85, loss: 0.01855098
+best_epoch 11, best_loss: 17.62293628
+Train 86, loss: 0.01848917
+best_epoch 11, best_loss: 17.62293628
+Train 87, loss: 0.01843018
+best_epoch 11, best_loss: 17.62293628
+Train 88, loss: 0.01816325
+best_epoch 11, best_loss: 17.62293628
+Train 89, loss: 0.01806192
+best_epoch 11, best_loss: 17.62293628
+Train 90, loss: 0.01792236
+best_epoch 11, best_loss: 17.62293628
+Train 91, loss: 0.01808698
+best_epoch 11, best_loss: 17.62293628
+Train 92, loss: 0.01797521
+best_epoch 11, best_loss: 17.62293628
+Train 93, loss: 0.01776987
+best_epoch 11, best_loss: 17.62293628
+Train 94, loss: 0.01775256
+best_epoch 11, best_loss: 17.62293628
+Train 95, loss: 0.01764628
+best_epoch 11, best_loss: 17.62293628
+Train 96, loss: 0.01731074
+best_epoch 11, best_loss: 17.62293628
+Train 97, loss: 0.01715952
+best_epoch 11, best_loss: 17.62293628
+Train 98, loss: 0.01823370
+<config.params object at 0x7fa18d83ad30>
+<config.params object at 0x7fe342f9ed30>
+<config.params object at 0x7fbbe5c58d30>
+Train 1, loss: 0.31843768
+best_epoch 1, best_loss: 3808.97613315
+<config.params object at 0x7f626064fd30>
+<config.params object at 0x7fe201259d30>
+<config.params object at 0x7fd13a670d30>
+<config.params object at 0x7f3805605d30>
+<config.params object at 0x7f3c2892ed30>
+<config.params object at 0x7fca10596d30>
+<config.params object at 0x7f3a56ffad30>
+<config.params object at 0x7efd377dbd30>
+<config.params object at 0x7ff927217d30>
+<config.params object at 0x7fa66f66ed30>
+Train 1, loss: 0.01056573
+best_epoch 1, best_loss: 4.68329604
+Train 2, loss: 0.01017399
+best_epoch 1, best_loss: 4.68329604
+Train 3, loss: 0.01014905
+best_epoch 1, best_loss: 4.68329604
+Train 4, loss: 0.01072147
+<config.params object at 0x7feca627fd30>
+<config.params object at 0x7f984be5ad30>
+Train 1, loss: 0.01047543
+best_epoch 1, best_loss: 4.88333608
+Train 2, loss: 0.01007687
+best_epoch 1, best_loss: 4.88333608
+<config.params object at 0x7f16b6aded30>
+<config.params object at 0x7ff90c1fbd30>
+<config.params object at 0x7fe6d64bbd30>
+Train 1, loss: 0.01121830
+best_epoch 1, best_loss: 12.70388584
+Train 2, loss: 0.01027770
+best_epoch 2, best_loss: 5.36982716
+Train 3, loss: 0.01016493
+best_epoch 2, best_loss: 5.36982716
+Train 4, loss: 0.00998197
+best_epoch 2, best_loss: 5.36982716
+<config.params object at 0x7f10ec0a2df0>
+Train 1, loss: 0.01123210
+best_epoch 1, best_loss: 6.32080546
+Train 2, loss: 0.01068162
+best_epoch 1, best_loss: 6.32080546
+Train 3, loss: 0.01095658
+best_epoch 1, best_loss: 6.32080546
+Train 4, loss: 0.01276316
+best_epoch 1, best_loss: 6.32080546
+Train 5, loss: 0.01206068
+best_epoch 1, best_loss: 6.32080546
+Train 6, loss: 0.01181856
+best_epoch 1, best_loss: 6.32080546
+Train 7, loss: 0.01162258
+best_epoch 1, best_loss: 6.32080546
+Train 8, loss: 0.01148727
+best_epoch 1, best_loss: 6.32080546
+Train 9, loss: 0.01149903
+best_epoch 1, best_loss: 6.32080546
+Train 10, loss: 0.01131868
+best_epoch 1, best_loss: 6.32080546
+Train 11, loss: 0.01136108
+best_epoch 1, best_loss: 6.32080546
+Train 12, loss: 0.01127542
+best_epoch 1, best_loss: 6.32080546
+Train 13, loss: 0.01199206
+best_epoch 1, best_loss: 6.32080546
+Train 14, loss: 0.01271866
+best_epoch 1, best_loss: 6.32080546
+Train 15, loss: 0.01240964
+best_epoch 1, best_loss: 6.32080546
+Train 16, loss: 0.01203097
+best_epoch 1, best_loss: 6.32080546
+Train 17, loss: 0.01195407
+best_epoch 1, best_loss: 6.32080546
+Train 18, loss: 0.01195417
+best_epoch 1, best_loss: 6.32080546
+Train 19, loss: 0.01213232
+best_epoch 1, best_loss: 6.32080546
+Train 20, loss: 0.01211723
+best_epoch 1, best_loss: 6.32080546
+Train 21, loss: 0.01201246
+best_epoch 1, best_loss: 6.32080546
+Train 22, loss: 0.01245596
+best_epoch 1, best_loss: 6.32080546
+Train 23, loss: 0.01245014
+best_epoch 1, best_loss: 6.32080546
+Train 24, loss: 0.01228192
+best_epoch 1, best_loss: 6.32080546
+Train 25, loss: 0.01219160
+best_epoch 1, best_loss: 6.32080546
+Train 26, loss: 0.01211987
+best_epoch 1, best_loss: 6.32080546
+Train 27, loss: 0.01207631
+best_epoch 1, best_loss: 6.32080546
+Train 28, loss: 0.01204218
+best_epoch 1, best_loss: 6.32080546
+Train 29, loss: 0.01201980
+best_epoch 1, best_loss: 6.32080546
+Train 30, loss: 0.01211325
+best_epoch 1, best_loss: 6.32080546
+Train 31, loss: 0.01203346
+best_epoch 1, best_loss: 6.32080546
+Train 32, loss: 0.01196711
+best_epoch 1, best_loss: 6.32080546
+Train 33, loss: 0.01193342
+best_epoch 1, best_loss: 6.32080546
+Train 34, loss: 0.01189848
+best_epoch 1, best_loss: 6.32080546
+Train 35, loss: 0.01186442
+best_epoch 1, best_loss: 6.32080546
+Train 36, loss: 0.01200394
+best_epoch 1, best_loss: 6.32080546
+Train 37, loss: 0.01202449
+best_epoch 1, best_loss: 6.32080546
+Train 38, loss: 0.01200364
+best_epoch 1, best_loss: 6.32080546
+Train 39, loss: 0.01202409
+best_epoch 1, best_loss: 6.32080546
+Train 40, loss: 0.01199325
+best_epoch 1, best_loss: 6.32080546
+Train 41, loss: 0.01196759
+best_epoch 1, best_loss: 6.32080546
+Train 42, loss: 0.01204277
+best_epoch 1, best_loss: 6.32080546
+Train 43, loss: 0.01196937
+best_epoch 1, best_loss: 6.32080546
+Train 44, loss: 0.01192742
+best_epoch 1, best_loss: 6.32080546
+Train 45, loss: 0.01195219
+best_epoch 1, best_loss: 6.32080546
+Train 46, loss: 0.01189916
+best_epoch 1, best_loss: 6.32080546
+Train 47, loss: 0.01188636
+best_epoch 1, best_loss: 6.32080546
+Train 48, loss: 0.01184897
+best_epoch 1, best_loss: 6.32080546
+Train 49, loss: 0.01188508
+best_epoch 1, best_loss: 6.32080546
+Train 50, loss: 0.01186922
+best_epoch 1, best_loss: 6.32080546
+Train 51, loss: 0.01181209
+best_epoch 1, best_loss: 6.32080546
+Train 52, loss: 0.01182471
+best_epoch 1, best_loss: 6.32080546
+Train 53, loss: 0.01186746
+best_epoch 1, best_loss: 6.32080546
+Train 54, loss: 0.01181151
+best_epoch 1, best_loss: 6.32080546
+Train 55, loss: 0.01192222
+best_epoch 1, best_loss: 6.32080546
+Train 56, loss: 0.01192225
+best_epoch 1, best_loss: 6.32080546
+Train 57, loss: 0.01189924
+best_epoch 1, best_loss: 6.32080546
+Train 58, loss: 0.01186018
+best_epoch 1, best_loss: 6.32080546
+Train 59, loss: 0.01184144
+best_epoch 1, best_loss: 6.32080546
+Train 60, loss: 0.01183863
+best_epoch 1, best_loss: 6.32080546
+Train 61, loss: 0.01183339
+best_epoch 1, best_loss: 6.32080546
+Train 62, loss: 0.01179600
+best_epoch 1, best_loss: 6.32080546
+Train 63, loss: 0.01224270
+best_epoch 1, best_loss: 6.32080546
+Train 64, loss: 0.01227793
+best_epoch 1, best_loss: 6.32080546
+Train 65, loss: 0.01213888
+best_epoch 1, best_loss: 6.32080546
+Train 66, loss: 0.01206999
+best_epoch 1, best_loss: 6.32080546
+Train 67, loss: 0.01207547
+best_epoch 1, best_loss: 6.32080546
+Train 68, loss: 0.01204302
+best_epoch 1, best_loss: 6.32080546
+Train 69, loss: 0.01200146
+best_epoch 1, best_loss: 6.32080546
+Train 70, loss: 0.01200637
+best_epoch 1, best_loss: 6.32080546
+Train 71, loss: 0.01202244
+best_epoch 1, best_loss: 6.32080546
+Train 72, loss: 0.01205462
+best_epoch 1, best_loss: 6.32080546
+Train 73, loss: 0.01204418
+best_epoch 1, best_loss: 6.32080546
+Train 74, loss: 0.01197639
+best_epoch 1, best_loss: 6.32080546
+Train 75, loss: 0.01203580
+best_epoch 1, best_loss: 6.32080546
+Train 76, loss: 0.01198317
+best_epoch 1, best_loss: 6.32080546
+Train 77, loss: 0.01203094
+best_epoch 1, best_loss: 6.32080546
+Train 78, loss: 0.01202844
+best_epoch 1, best_loss: 6.32080546
+Train 79, loss: 0.01208869
+best_epoch 1, best_loss: 6.32080546
+Train 80, loss: 0.01210119
+best_epoch 1, best_loss: 6.32080546
+Train 81, loss: 0.01198549
+best_epoch 1, best_loss: 6.32080546
+Train 82, loss: 0.01199276
+best_epoch 1, best_loss: 6.32080546
+Train 83, loss: 0.01199262
+best_epoch 1, best_loss: 6.32080546
+Train 84, loss: 0.01196113
+best_epoch 1, best_loss: 6.32080546
+Train 85, loss: 0.01196953
+best_epoch 1, best_loss: 6.32080546
+Train 86, loss: 0.01197436
+best_epoch 1, best_loss: 6.32080546
+Train 87, loss: 0.01211367
+best_epoch 1, best_loss: 6.32080546
+Train 88, loss: 0.01221296
+best_epoch 1, best_loss: 6.32080546
+Train 89, loss: 0.01210654
+best_epoch 1, best_loss: 6.32080546
+Train 90, loss: 0.01202929
+best_epoch 1, best_loss: 6.32080546
+Train 91, loss: 0.01201853
+best_epoch 1, best_loss: 6.32080546
+Train 92, loss: 0.01198018
+best_epoch 1, best_loss: 6.32080546
+Train 93, loss: 0.01198134
+best_epoch 1, best_loss: 6.32080546
+Train 94, loss: 0.01198724
+best_epoch 1, best_loss: 6.32080546
+Train 95, loss: 0.01196482
+best_epoch 1, best_loss: 6.32080546
+Train 96, loss: 0.01191424
+best_epoch 1, best_loss: 6.32080546
+Train 97, loss: 0.01190427
+best_epoch 1, best_loss: 6.32080546
+Train 98, loss: 0.01190438
+best_epoch 1, best_loss: 6.32080546
+Train 99, loss: 0.01192775
+best_epoch 1, best_loss: 6.32080546
+Train 100, loss: 0.01191529
+best_epoch 1, best_loss: 6.32080546
+Train 101, loss: 0.01191378
+best_epoch 1, best_loss: 6.32080546
+Train 102, loss: 0.01193437
+best_epoch 1, best_loss: 6.32080546
+Train 103, loss: 0.01190536
+best_epoch 1, best_loss: 6.32080546
+Train 104, loss: 0.01189048
+best_epoch 1, best_loss: 6.32080546
+Train 105, loss: 0.01188509
+best_epoch 1, best_loss: 6.32080546
+Train 106, loss: 0.01187694
+best_epoch 1, best_loss: 6.32080546
+Train 107, loss: 0.01188197
+best_epoch 1, best_loss: 6.32080546
+Train 108, loss: 0.01187875
+best_epoch 1, best_loss: 6.32080546
+Train 109, loss: 0.01189385
+best_epoch 1, best_loss: 6.32080546
+Train 110, loss: 0.01188524
+best_epoch 1, best_loss: 6.32080546
+Train 111, loss: 0.01191472
+best_epoch 1, best_loss: 6.32080546
+Train 112, loss: 0.01186049
+best_epoch 1, best_loss: 6.32080546
+Train 113, loss: 0.01189226
+best_epoch 1, best_loss: 6.32080546
+Train 114, loss: 0.01189015
+best_epoch 1, best_loss: 6.32080546
+<config.params object at 0x7fec483d4df0>
+<config.params object at 0x7f925bc8adf0>
+Train 1, loss: 0.02363826
+best_epoch 1, best_loss: 33.73016634
+Train 2, loss: 0.02180974
+best_epoch 2, best_loss: 27.55130429
+Train 3, loss: 0.02119547
+best_epoch 2, best_loss: 27.55130429
+Train 4, loss: 0.02056153
+best_epoch 4, best_loss: 26.73575010
+Train 5, loss: 0.02032872
+best_epoch 4, best_loss: 26.73575010
+Train 6, loss: 0.02005266
+best_epoch 6, best_loss: 20.19115284
+Train 7, loss: 0.01996665
+best_epoch 6, best_loss: 20.19115284
+Train 8, loss: 0.01969910
+best_epoch 6, best_loss: 20.19115284
+Train 9, loss: 0.01987366
+best_epoch 6, best_loss: 20.19115284
+Train 10, loss: 0.01939687
+best_epoch 6, best_loss: 20.19115284
+Train 11, loss: 0.02047295
+best_epoch 6, best_loss: 20.19115284
+Train 12, loss: 0.02116380
+best_epoch 6, best_loss: 20.19115284
+Train 13, loss: 0.02056919
+best_epoch 6, best_loss: 20.19115284
+Train 14, loss: 0.02028122
+best_epoch 6, best_loss: 20.19115284
+Train 15, loss: 0.01990167
+best_epoch 6, best_loss: 20.19115284
+Train 16, loss: 0.01972415
+best_epoch 6, best_loss: 20.19115284
+Train 17, loss: 0.01992473
+best_epoch 6, best_loss: 20.19115284
+Train 18, loss: 0.01968653
+best_epoch 6, best_loss: 20.19115284
+Train 19, loss: 0.01962630
+best_epoch 6, best_loss: 20.19115284
+Train 20, loss: 0.02052986
+best_epoch 6, best_loss: 20.19115284
+Train 21, loss: 0.02041049
+best_epoch 6, best_loss: 20.19115284
+Train 22, loss: 0.02068138
+best_epoch 6, best_loss: 20.19115284
+Train 23, loss: 0.01977390
+best_epoch 6, best_loss: 20.19115284
+Train 24, loss: 0.01940023
+best_epoch 6, best_loss: 20.19115284
+Train 25, loss: 0.01947195
+best_epoch 6, best_loss: 20.19115284
+Train 26, loss: 0.01884419
+best_epoch 6, best_loss: 20.19115284
+Train 27, loss: 0.01893124
+best_epoch 6, best_loss: 20.19115284
+Train 28, loss: 0.01886930
+best_epoch 6, best_loss: 20.19115284
+Train 29, loss: 0.01864776
+best_epoch 6, best_loss: 20.19115284
+Train 30, loss: 0.01861253
+best_epoch 6, best_loss: 20.19115284
+Train 31, loss: 0.01790343
+best_epoch 6, best_loss: 20.19115284
+Train 32, loss: 0.01963928
+best_epoch 6, best_loss: 20.19115284
+Train 33, loss: 0.02016983
+best_epoch 6, best_loss: 20.19115284
+Train 34, loss: 0.01884958
+best_epoch 6, best_loss: 20.19115284
+Train 35, loss: 0.01830927
+best_epoch 6, best_loss: 20.19115284
+Train 36, loss: 0.01801264
+best_epoch 6, best_loss: 20.19115284
+Train 37, loss: 0.01822718
+best_epoch 6, best_loss: 20.19115284
+Train 38, loss: 0.01909150
+best_epoch 6, best_loss: 20.19115284
+Train 39, loss: 0.02031239
+best_epoch 6, best_loss: 20.19115284
+Train 40, loss: 0.01977614
+best_epoch 6, best_loss: 20.19115284
+Train 41, loss: 0.01972219
+best_epoch 6, best_loss: 20.19115284
+Train 42, loss: 0.01893955
+best_epoch 6, best_loss: 20.19115284
+Train 43, loss: 0.01835721
+best_epoch 6, best_loss: 20.19115284
+Train 44, loss: 0.01851026
+best_epoch 6, best_loss: 20.19115284
+Train 45, loss: 0.01853949
+best_epoch 6, best_loss: 20.19115284
+Train 46, loss: 0.01820976
+best_epoch 6, best_loss: 20.19115284
+Train 47, loss: 0.01803809
+best_epoch 6, best_loss: 20.19115284
+Train 48, loss: 0.01942816
+best_epoch 6, best_loss: 20.19115284
+Train 49, loss: 0.02012221
+best_epoch 6, best_loss: 20.19115284
+Train 50, loss: 0.01873187
+best_epoch 6, best_loss: 20.19115284
+Train 51, loss: 0.01827110
+best_epoch 6, best_loss: 20.19115284
+Train 52, loss: 0.01819821
+best_epoch 6, best_loss: 20.19115284
+Train 53, loss: 0.01800377
+best_epoch 6, best_loss: 20.19115284
+Train 54, loss: 0.01770995
+best_epoch 6, best_loss: 20.19115284
+Train 55, loss: 0.01743009
+best_epoch 6, best_loss: 20.19115284
+Train 56, loss: 0.01762546
+best_epoch 6, best_loss: 20.19115284
+Train 57, loss: 0.01732388
+best_epoch 6, best_loss: 20.19115284
+Train 58, loss: 0.01745121
+best_epoch 6, best_loss: 20.19115284
+Train 59, loss: 0.01730249
+best_epoch 6, best_loss: 20.19115284
+Train 60, loss: 0.01805450
+best_epoch 6, best_loss: 20.19115284
+Train 61, loss: 0.01781008
+best_epoch 6, best_loss: 20.19115284
+Train 62, loss: 0.01744964
+best_epoch 6, best_loss: 20.19115284
+Train 63, loss: 0.01742735
+best_epoch 6, best_loss: 20.19115284
+Train 64, loss: 0.01704629
+best_epoch 6, best_loss: 20.19115284
+Train 65, loss: 0.01704326
+best_epoch 6, best_loss: 20.19115284
+Train 66, loss: 0.01758276
+best_epoch 6, best_loss: 20.19115284
+Train 67, loss: 0.01863011
+best_epoch 6, best_loss: 20.19115284
+Train 68, loss: 0.01729547
+best_epoch 6, best_loss: 20.19115284
+Train 69, loss: 0.01732475
+best_epoch 6, best_loss: 20.19115284
+Train 70, loss: 0.01722704
+best_epoch 6, best_loss: 20.19115284
+Train 71, loss: 0.01716088
+best_epoch 6, best_loss: 20.19115284
+Train 72, loss: 0.01689114
+best_epoch 6, best_loss: 20.19115284
+Train 73, loss: 0.01729573
+best_epoch 6, best_loss: 20.19115284
+Train 74, loss: 0.01691539
+best_epoch 6, best_loss: 20.19115284
+Train 75, loss: 0.01716959
+best_epoch 6, best_loss: 20.19115284
+Train 76, loss: 0.01810035
+best_epoch 6, best_loss: 20.19115284
+Train 77, loss: 0.01783327
+best_epoch 6, best_loss: 20.19115284
+Train 78, loss: 0.01690116
+best_epoch 6, best_loss: 20.19115284
+Train 79, loss: 0.01762109
+best_epoch 6, best_loss: 20.19115284
+Train 80, loss: 0.01707230
+best_epoch 6, best_loss: 20.19115284
+Train 81, loss: 0.01733013
+best_epoch 6, best_loss: 20.19115284
+Train 82, loss: 0.01680979
+best_epoch 6, best_loss: 20.19115284
+Train 83, loss: 0.01622479
+best_epoch 6, best_loss: 20.19115284
+Train 84, loss: 0.01643317
+best_epoch 6, best_loss: 20.19115284
+Train 85, loss: 0.01638946
+best_epoch 6, best_loss: 20.19115284
+Train 86, loss: 0.01595125
+best_epoch 86, best_loss: 19.21334924
+Train 87, loss: 0.01631743
+best_epoch 87, best_loss: 19.11671152
+Train 88, loss: 0.01705143
+best_epoch 87, best_loss: 19.11671152
+Train 89, loss: 0.02187342
+best_epoch 87, best_loss: 19.11671152
+Train 90, loss: 0.01961952
+best_epoch 87, best_loss: 19.11671152
+Train 91, loss: 0.01876487
+best_epoch 87, best_loss: 19.11671152
+Train 92, loss: 0.01876571
+best_epoch 87, best_loss: 19.11671152
+Train 93, loss: 0.01935698
+best_epoch 87, best_loss: 19.11671152
+Train 94, loss: 0.01909995
+best_epoch 87, best_loss: 19.11671152
+Train 95, loss: 0.02068533
+best_epoch 87, best_loss: 19.11671152
+Train 96, loss: 0.01911265
+best_epoch 87, best_loss: 19.11671152
+Train 97, loss: 0.01831836
+best_epoch 87, best_loss: 19.11671152
+Train 98, loss: 0.01881897
+best_epoch 87, best_loss: 19.11671152
+Train 99, loss: 0.01838463
+best_epoch 87, best_loss: 19.11671152
+Train 100, loss: 0.01773159
+best_epoch 87, best_loss: 19.11671152
+Train 101, loss: 0.01681930
+best_epoch 87, best_loss: 19.11671152
+Train 102, loss: 0.01681582
+best_epoch 87, best_loss: 19.11671152
+Train 103, loss: 0.01651648
+best_epoch 87, best_loss: 19.11671152
+Train 104, loss: 0.01613760
+best_epoch 87, best_loss: 19.11671152
+Train 105, loss: 0.01608453
+best_epoch 87, best_loss: 19.11671152
+Train 106, loss: 0.01587040
+best_epoch 87, best_loss: 19.11671152
+Train 107, loss: 0.01671038
+best_epoch 87, best_loss: 19.11671152
+Train 108, loss: 0.01728287
+best_epoch 87, best_loss: 19.11671152
+Train 109, loss: 0.01674451
+best_epoch 87, best_loss: 19.11671152
+Train 110, loss: 0.01608598
+best_epoch 87, best_loss: 19.11671152
+Train 111, loss: 0.01580924
+best_epoch 111, best_loss: 17.17708331
+Train 112, loss: 0.01552354
+best_epoch 111, best_loss: 17.17708331
+Train 113, loss: 0.01546350
+best_epoch 111, best_loss: 17.17708331
+Train 114, loss: 0.01550969
+best_epoch 111, best_loss: 17.17708331
+Train 115, loss: 0.01654379
+best_epoch 111, best_loss: 17.17708331
+Train 116, loss: 0.01762653
+best_epoch 111, best_loss: 17.17708331
+Train 117, loss: 0.01636010
+best_epoch 111, best_loss: 17.17708331
+Train 118, loss: 0.01764263
+best_epoch 111, best_loss: 17.17708331
+Train 119, loss: 0.01987879
+best_epoch 111, best_loss: 17.17708331
+Train 120, loss: 0.01802300
+best_epoch 111, best_loss: 17.17708331
+Train 121, loss: 0.01702039
+best_epoch 111, best_loss: 17.17708331
+Train 122, loss: 0.01633457
+best_epoch 111, best_loss: 17.17708331
+Train 123, loss: 0.01599194
+best_epoch 123, best_loss: 16.09378359
+Train 124, loss: 0.01577800
+best_epoch 123, best_loss: 16.09378359
+Train 125, loss: 0.01619924
+best_epoch 123, best_loss: 16.09378359
+Train 126, loss: 0.01622117
+best_epoch 126, best_loss: 15.61957586
+Train 127, loss: 0.01882034
+best_epoch 126, best_loss: 15.61957586
+Train 128, loss: 0.01999057
+best_epoch 126, best_loss: 15.61957586
+Train 129, loss: 0.01887325
+best_epoch 126, best_loss: 15.61957586
+Train 130, loss: 0.01907521
+best_epoch 126, best_loss: 15.61957586
+Train 131, loss: 0.01660568
+best_epoch 126, best_loss: 15.61957586
+Train 132, loss: 0.01651982
+best_epoch 126, best_loss: 15.61957586
+Train 133, loss: 0.01696773
+best_epoch 126, best_loss: 15.61957586
+Train 134, loss: 0.01683284
+best_epoch 126, best_loss: 15.61957586
+Train 135, loss: 0.01859655
+best_epoch 126, best_loss: 15.61957586
+Train 136, loss: 0.01881034
+best_epoch 126, best_loss: 15.61957586
+Train 137, loss: 0.02055026
+best_epoch 126, best_loss: 15.61957586
+Train 138, loss: 0.01988584
+best_epoch 126, best_loss: 15.61957586
+Train 139, loss: 0.01966660
+best_epoch 126, best_loss: 15.61957586
+Train 140, loss: 0.01956198
+best_epoch 126, best_loss: 15.61957586
+Train 141, loss: 0.01938944
+best_epoch 126, best_loss: 15.61957586
+Train 142, loss: 0.01933830
+best_epoch 126, best_loss: 15.61957586
+Train 143, loss: 0.01922673
+best_epoch 126, best_loss: 15.61957586
+Train 144, loss: 0.01926065
+best_epoch 126, best_loss: 15.61957586
+Train 145, loss: 0.01915464
+best_epoch 126, best_loss: 15.61957586
+Train 146, loss: 0.01940607
+best_epoch 126, best_loss: 15.61957586
+Train 147, loss: 0.01913648
+best_epoch 126, best_loss: 15.61957586
+Train 148, loss: 0.01906042
+best_epoch 126, best_loss: 15.61957586
+Train 149, loss: 0.01892703
+best_epoch 126, best_loss: 15.61957586
+Train 150, loss: 0.01879427
+best_epoch 126, best_loss: 15.61957586
+Train 151, loss: 0.01833072
+best_epoch 126, best_loss: 15.61957586
+Train 152, loss: 0.01876423
+best_epoch 126, best_loss: 15.61957586
+Train 153, loss: 0.01891904
+best_epoch 126, best_loss: 15.61957586
+Train 154, loss: 0.01800225
+best_epoch 126, best_loss: 15.61957586
+Train 155, loss: 0.01828181
+best_epoch 126, best_loss: 15.61957586
+Train 156, loss: 0.01962066
+best_epoch 126, best_loss: 15.61957586
+Train 157, loss: 0.01930136
+best_epoch 126, best_loss: 15.61957586
+Train 158, loss: 0.01869992
+best_epoch 126, best_loss: 15.61957586
+Train 159, loss: 0.01859887
+best_epoch 126, best_loss: 15.61957586
+Train 160, loss: 0.01838235
+best_epoch 126, best_loss: 15.61957586
+Train 161, loss: 0.01824983
+best_epoch 126, best_loss: 15.61957586
+Train 162, loss: 0.01834246
+best_epoch 126, best_loss: 15.61957586
+Train 163, loss: 0.01797708
+best_epoch 126, best_loss: 15.61957586
+Train 164, loss: 0.01785306
+best_epoch 126, best_loss: 15.61957586
+Train 165, loss: 0.01798722
+best_epoch 126, best_loss: 15.61957586
+Train 166, loss: 0.01802463
+best_epoch 126, best_loss: 15.61957586
+Train 167, loss: 0.01771717
+best_epoch 126, best_loss: 15.61957586
+Train 168, loss: 0.01784927
+best_epoch 126, best_loss: 15.61957586
+Train 169, loss: 0.01788327
+best_epoch 126, best_loss: 15.61957586
+Train 170, loss: 0.01739746
+best_epoch 126, best_loss: 15.61957586
+Train 171, loss: 0.01719955
+best_epoch 126, best_loss: 15.61957586
+Train 172, loss: 0.01973502
+best_epoch 126, best_loss: 15.61957586
+Train 173, loss: 0.01911200
+best_epoch 126, best_loss: 15.61957586
+Train 174, loss: 0.01848119
+best_epoch 126, best_loss: 15.61957586
+Train 175, loss: 0.01890418
+best_epoch 126, best_loss: 15.61957586
+Train 176, loss: 0.01811880
+best_epoch 126, best_loss: 15.61957586
+Train 177, loss: 0.01727926
+best_epoch 126, best_loss: 15.61957586
+Train 178, loss: 0.01725723
+best_epoch 126, best_loss: 15.61957586
+Train 179, loss: 0.01760847
+best_epoch 126, best_loss: 15.61957586
+Train 180, loss: 0.01671936
+best_epoch 126, best_loss: 15.61957586
+Train 181, loss: 0.01772755
+best_epoch 126, best_loss: 15.61957586
+Train 182, loss: 0.01652406
+best_epoch 126, best_loss: 15.61957586
+Train 183, loss: 0.01641209
+best_epoch 126, best_loss: 15.61957586
+Train 184, loss: 0.01615252
+best_epoch 184, best_loss: 15.27298904
+Train 185, loss: 0.01566410
+best_epoch 185, best_loss: 14.92463349
+Train 186, loss: 0.01573189
+best_epoch 186, best_loss: 13.63730942
+Train 187, loss: 0.01599622
+best_epoch 186, best_loss: 13.63730942
+Train 188, loss: 0.01556247
+best_epoch 186, best_loss: 13.63730942
+Train 189, loss: 0.01578477
+best_epoch 186, best_loss: 13.63730942
+Train 190, loss: 0.01634229
+best_epoch 186, best_loss: 13.63730942
+Train 191, loss: 0.01613133
+best_epoch 186, best_loss: 13.63730942
+Train 192, loss: 0.01600600
+best_epoch 186, best_loss: 13.63730942
+Train 193, loss: 0.01595118
+best_epoch 186, best_loss: 13.63730942
+Train 194, loss: 0.01574984
+best_epoch 186, best_loss: 13.63730942
+Train 195, loss: 0.01541978
+best_epoch 195, best_loss: 12.53942513
+Train 196, loss: 0.01668486
+best_epoch 195, best_loss: 12.53942513
+Train 197, loss: 0.01560314
+best_epoch 195, best_loss: 12.53942513
+Train 198, loss: 0.01537615
+best_epoch 195, best_loss: 12.53942513
+Train 199, loss: 0.01554634
+best_epoch 195, best_loss: 12.53942513
+Train 200, loss: 0.01520080
+best_epoch 195, best_loss: 12.53942513
+<config.params object at 0x7f0fd0bc1df0>
+Train 1, loss: 0.01591873
+best_epoch 1, best_loss: 25.61631712
+Train 2, loss: 0.01463082
+best_epoch 2, best_loss: 21.41547975
+<config.params object at 0x7fe1c309bdf0>
+Train 1, loss: 0.01764336
+best_epoch 1, best_loss: 34.95714683
+Train 2, loss: 0.02169081
+best_epoch 1, best_loss: 34.95714683
+Train 3, loss: 0.02143233
+best_epoch 1, best_loss: 34.95714683
+Train 4, loss: 0.01974800
+best_epoch 4, best_loss: 31.54811765
+Train 5, loss: 0.01730240
+best_epoch 5, best_loss: 27.77030761
+Train 6, loss: 0.01835871
+best_epoch 5, best_loss: 27.77030761
+Train 7, loss: 0.01585733
+best_epoch 7, best_loss: 26.32855983
+Train 8, loss: 0.01507908
+best_epoch 8, best_loss: 21.14772411
+Train 9, loss: 0.01409519
+best_epoch 9, best_loss: 16.84784825
+Train 10, loss: 0.01562909
+best_epoch 9, best_loss: 16.84784825
+Train 11, loss: 0.01908894
+best_epoch 9, best_loss: 16.84784825
+Train 12, loss: 0.01731594
+best_epoch 9, best_loss: 16.84784825
+Train 13, loss: 0.01491183
+best_epoch 9, best_loss: 16.84784825
+Train 14, loss: 0.01760007
+best_epoch 9, best_loss: 16.84784825
+Train 15, loss: 0.01665428
+best_epoch 9, best_loss: 16.84784825
+Train 16, loss: 0.01540065
+best_epoch 9, best_loss: 16.84784825
+Train 17, loss: 0.02272946
+best_epoch 9, best_loss: 16.84784825
+Train 18, loss: 0.01767553
+best_epoch 9, best_loss: 16.84784825
+Train 19, loss: 0.01539456
+best_epoch 9, best_loss: 16.84784825
+Train 20, loss: 0.01677098
+best_epoch 9, best_loss: 16.84784825
+Train 21, loss: 0.01437291
+best_epoch 9, best_loss: 16.84784825
+Train 22, loss: 0.01654337
+best_epoch 9, best_loss: 16.84784825
+Train 23, loss: 0.01415304
+best_epoch 9, best_loss: 16.84784825
+Train 24, loss: 0.01475560
+best_epoch 9, best_loss: 16.84784825
+Train 25, loss: 0.01436697
+best_epoch 9, best_loss: 16.84784825
+Train 26, loss: 0.01341450
+best_epoch 9, best_loss: 16.84784825
+Train 27, loss: 0.01380104
+best_epoch 9, best_loss: 16.84784825
+Train 28, loss: 0.01709551
+best_epoch 9, best_loss: 16.84784825
+Train 29, loss: 0.01509207
+best_epoch 9, best_loss: 16.84784825
+Train 30, loss: 0.01452819
+best_epoch 9, best_loss: 16.84784825
+Train 31, loss: 0.01343214
+best_epoch 9, best_loss: 16.84784825
+Train 32, loss: 0.01369027
+best_epoch 9, best_loss: 16.84784825
+Train 33, loss: 0.01446616
+best_epoch 9, best_loss: 16.84784825
+Train 34, loss: 0.01530920
+best_epoch 9, best_loss: 16.84784825
+Train 35, loss: 0.01495116
+best_epoch 9, best_loss: 16.84784825
+Train 36, loss: 0.01579618
+best_epoch 9, best_loss: 16.84784825
+Train 37, loss: 0.01548338
+best_epoch 9, best_loss: 16.84784825
+Train 38, loss: 0.01772535
+best_epoch 9, best_loss: 16.84784825
+Train 39, loss: 0.01586885
+best_epoch 9, best_loss: 16.84784825
+Train 40, loss: 0.01367001
+best_epoch 40, best_loss: 14.38787261
+Train 41, loss: 0.01300353
+best_epoch 40, best_loss: 14.38787261
+Train 42, loss: 0.01307543
+best_epoch 42, best_loss: 14.33408500
+Train 43, loss: 0.01339766
+best_epoch 42, best_loss: 14.33408500
+Train 44, loss: 0.01272345
+best_epoch 42, best_loss: 14.33408500
+Train 45, loss: 0.01285076
+best_epoch 42, best_loss: 14.33408500
+Train 46, loss: 0.01285601
+best_epoch 42, best_loss: 14.33408500
+Train 47, loss: 0.01247044
+best_epoch 47, best_loss: 13.90725743
+Train 48, loss: 0.01288115
+best_epoch 47, best_loss: 13.90725743
+Train 49, loss: 0.01795257
+best_epoch 47, best_loss: 13.90725743
+Train 50, loss: 0.01958175
+best_epoch 47, best_loss: 13.90725743
+Train 51, loss: 0.01797516
+best_epoch 47, best_loss: 13.90725743
+Train 52, loss: 0.01725776
+best_epoch 47, best_loss: 13.90725743
+Train 53, loss: 0.01649995
+best_epoch 47, best_loss: 13.90725743
+Train 54, loss: 0.01564419
+best_epoch 47, best_loss: 13.90725743
+Train 55, loss: 0.01527530
+best_epoch 47, best_loss: 13.90725743
+Train 56, loss: 0.01538150
+best_epoch 47, best_loss: 13.90725743
+Train 57, loss: 0.01977608
+best_epoch 47, best_loss: 13.90725743
+Train 58, loss: 0.01949284
+best_epoch 47, best_loss: 13.90725743
+Train 59, loss: 0.01673347
+best_epoch 47, best_loss: 13.90725743
+Train 60, loss: 0.01641809
+best_epoch 47, best_loss: 13.90725743
+Train 61, loss: 0.01639296
+best_epoch 47, best_loss: 13.90725743
+Train 62, loss: 0.01695401
+best_epoch 47, best_loss: 13.90725743
+Train 63, loss: 0.01666567
+best_epoch 47, best_loss: 13.90725743
+Train 64, loss: 0.01692087
+best_epoch 47, best_loss: 13.90725743
+Train 65, loss: 0.01649837
+best_epoch 47, best_loss: 13.90725743
+Train 66, loss: 0.01663923
+best_epoch 47, best_loss: 13.90725743
+Train 67, loss: 0.01721692
+best_epoch 47, best_loss: 13.90725743
+Train 68, loss: 0.01617720
+best_epoch 47, best_loss: 13.90725743
+Train 69, loss: 0.01552515
+best_epoch 47, best_loss: 13.90725743
+Train 70, loss: 0.01546939
+best_epoch 47, best_loss: 13.90725743
+Train 71, loss: 0.01456723
+best_epoch 47, best_loss: 13.90725743
+Train 72, loss: 0.01438558
+best_epoch 72, best_loss: 11.85234410
+Train 73, loss: 0.01431492
+best_epoch 72, best_loss: 11.85234410
+Train 74, loss: 0.01396904
+best_epoch 72, best_loss: 11.85234410
+Train 75, loss: 0.01439798
+best_epoch 72, best_loss: 11.85234410
+Train 76, loss: 0.01423414
+best_epoch 76, best_loss: 11.28643821
+Train 77, loss: 0.01484974
+best_epoch 76, best_loss: 11.28643821
+Train 78, loss: 0.01841379
+best_epoch 76, best_loss: 11.28643821
+Train 79, loss: 0.01691373
+best_epoch 76, best_loss: 11.28643821
+Train 80, loss: 0.01588227
+best_epoch 76, best_loss: 11.28643821
+Train 81, loss: 0.01535735
+best_epoch 76, best_loss: 11.28643821
+Train 82, loss: 0.01504010
+best_epoch 76, best_loss: 11.28643821
+Train 83, loss: 0.01463651
+best_epoch 83, best_loss: 10.99183057
+Train 84, loss: 0.01465986
+best_epoch 83, best_loss: 10.99183057
+Train 85, loss: 0.01613233
+best_epoch 83, best_loss: 10.99183057
+Train 86, loss: 0.01478300
+best_epoch 83, best_loss: 10.99183057
+Train 87, loss: 0.01440232
+best_epoch 83, best_loss: 10.99183057
+Train 88, loss: 0.01491081
+best_epoch 83, best_loss: 10.99183057
+Train 89, loss: 0.01523228
+best_epoch 83, best_loss: 10.99183057
+Train 90, loss: 0.01501663
+best_epoch 83, best_loss: 10.99183057
+Train 91, loss: 0.01530009
+best_epoch 83, best_loss: 10.99183057
+Train 92, loss: 0.01456070
+best_epoch 83, best_loss: 10.99183057
+Train 93, loss: 0.01463365
+best_epoch 83, best_loss: 10.99183057
+Train 94, loss: 0.01498586
+best_epoch 83, best_loss: 10.99183057
+Train 95, loss: 0.01427214
+best_epoch 83, best_loss: 10.99183057
+Train 96, loss: 0.01406827
+best_epoch 96, best_loss: 10.38013221
+Train 97, loss: 0.01434210
+best_epoch 96, best_loss: 10.38013221
+Train 98, loss: 0.01481563
+best_epoch 96, best_loss: 10.38013221
+Train 99, loss: 0.01470616
+best_epoch 96, best_loss: 10.38013221
+Train 100, loss: 0.01396482
+best_epoch 96, best_loss: 10.38013221
+Train 101, loss: 0.01388885
+best_epoch 101, best_loss: 9.79319061
+Train 102, loss: 0.01395393
+best_epoch 101, best_loss: 9.79319061
+Train 103, loss: 0.01397673
+best_epoch 101, best_loss: 9.79319061
+Train 104, loss: 0.01427994
+best_epoch 101, best_loss: 9.79319061
+Train 105, loss: 0.01469144
+best_epoch 101, best_loss: 9.79319061
+Train 106, loss: 0.01435284
+best_epoch 101, best_loss: 9.79319061
+Train 107, loss: 0.01480929
+best_epoch 101, best_loss: 9.79319061
+Train 108, loss: 0.01487123
+best_epoch 101, best_loss: 9.79319061
+Train 109, loss: 0.01473875
+best_epoch 101, best_loss: 9.79319061
+Train 110, loss: 0.01447827
+best_epoch 101, best_loss: 9.79319061
+Train 111, loss: 0.01406836
+best_epoch 101, best_loss: 9.79319061
+Train 112, loss: 0.01388912
+best_epoch 101, best_loss: 9.79319061
+Train 113, loss: 0.01378173
+best_epoch 101, best_loss: 9.79319061
+Train 114, loss: 0.01435519
+best_epoch 101, best_loss: 9.79319061
+Train 115, loss: 0.01566932
+best_epoch 101, best_loss: 9.79319061
+Train 116, loss: 0.01507129
+best_epoch 101, best_loss: 9.79319061
+Train 117, loss: 0.01466240
+best_epoch 101, best_loss: 9.79319061
+Train 118, loss: 0.01479904
+best_epoch 101, best_loss: 9.79319061
+Train 119, loss: 0.01563855
+best_epoch 101, best_loss: 9.79319061
+Train 120, loss: 0.01720699
+best_epoch 101, best_loss: 9.79319061
+Train 121, loss: 0.01599331
+best_epoch 101, best_loss: 9.79319061
+Train 122, loss: 0.01571928
+best_epoch 101, best_loss: 9.79319061
+Train 123, loss: 0.01569006
+best_epoch 101, best_loss: 9.79319061
+Train 124, loss: 0.01524219
+best_epoch 101, best_loss: 9.79319061
+Train 125, loss: 0.01498756
+best_epoch 101, best_loss: 9.79319061
+Train 126, loss: 0.01520281
+best_epoch 101, best_loss: 9.79319061
+Train 127, loss: 0.01486370
+best_epoch 101, best_loss: 9.79319061
+Train 128, loss: 0.01561192
+best_epoch 101, best_loss: 9.79319061
+Train 129, loss: 0.01408552
+best_epoch 101, best_loss: 9.79319061
+Train 130, loss: 0.01376590
+best_epoch 101, best_loss: 9.79319061
+Train 131, loss: 0.01356925
+best_epoch 101, best_loss: 9.79319061
+Train 132, loss: 0.01360834
+best_epoch 101, best_loss: 9.79319061
+Train 133, loss: 0.01334280
+best_epoch 101, best_loss: 9.79319061
+Train 134, loss: 0.01312536
+best_epoch 134, best_loss: 9.61530822
+Train 135, loss: 0.01314524
+best_epoch 134, best_loss: 9.61530822
+Train 136, loss: 0.01420593
+best_epoch 134, best_loss: 9.61530822
+Train 137, loss: 0.01366156
+best_epoch 134, best_loss: 9.61530822
+Train 138, loss: 0.01355972
+best_epoch 134, best_loss: 9.61530822
+Train 139, loss: 0.01416540
+best_epoch 134, best_loss: 9.61530822
+Train 140, loss: 0.01360403
+best_epoch 134, best_loss: 9.61530822
+Train 141, loss: 0.01381320
+best_epoch 134, best_loss: 9.61530822
+Train 142, loss: 0.01447540
+best_epoch 134, best_loss: 9.61530822
+Train 143, loss: 0.01467783
+best_epoch 134, best_loss: 9.61530822
+Train 144, loss: 0.01429194
+best_epoch 134, best_loss: 9.61530822
+Train 145, loss: 0.01423926
+best_epoch 134, best_loss: 9.61530822
+Train 146, loss: 0.01431301
+best_epoch 134, best_loss: 9.61530822
+Train 147, loss: 0.01374055
+best_epoch 134, best_loss: 9.61530822
+Train 148, loss: 0.01373577
+best_epoch 134, best_loss: 9.61530822
+Train 149, loss: 0.01361231
+best_epoch 134, best_loss: 9.61530822
+Train 150, loss: 0.01339719
+best_epoch 134, best_loss: 9.61530822
+Train 151, loss: 0.01313560
+best_epoch 151, best_loss: 8.96526444
+Train 152, loss: 0.01369468
+best_epoch 151, best_loss: 8.96526444
+Train 153, loss: 0.01427565
+best_epoch 151, best_loss: 8.96526444
+Train 154, loss: 0.01413875
+best_epoch 151, best_loss: 8.96526444
+Train 155, loss: 0.01439494
+best_epoch 151, best_loss: 8.96526444
+Train 156, loss: 0.01505011
+best_epoch 151, best_loss: 8.96526444
+Train 157, loss: 0.01409012
+best_epoch 151, best_loss: 8.96526444
+Train 158, loss: 0.01336575
+best_epoch 151, best_loss: 8.96526444
+Train 159, loss: 0.01351405
+best_epoch 151, best_loss: 8.96526444
+Train 160, loss: 0.01371921
+best_epoch 151, best_loss: 8.96526444
+Train 161, loss: 0.01361985
+best_epoch 151, best_loss: 8.96526444
+Train 162, loss: 0.01384060
+best_epoch 151, best_loss: 8.96526444
+Train 163, loss: 0.01338695
+best_epoch 151, best_loss: 8.96526444
+Train 164, loss: 0.01316787
+best_epoch 151, best_loss: 8.96526444
+Train 165, loss: 0.01297243
+best_epoch 151, best_loss: 8.96526444
+Train 166, loss: 0.01368044
+best_epoch 151, best_loss: 8.96526444
+<config.params object at 0x7fa2d9451df0>
+Train 1, loss: 0.01066103
+best_epoch 1, best_loss: 6.26249719
+Train 2, loss: 0.01023435
+best_epoch 1, best_loss: 6.26249719
+Train 3, loss: 0.01218622
+best_epoch 1, best_loss: 6.26249719
+<config.params object at 0x7fa7db8fedf0>
+Train 1, loss: 0.01072374
+best_epoch 1, best_loss: 7.43780611
+Train 2, loss: 0.01098399
+best_epoch 1, best_loss: 7.43780611
+Train 3, loss: 0.01062649
+best_epoch 1, best_loss: 7.43780611
+Train 4, loss: 0.01066623
+best_epoch 1, best_loss: 7.43780611
+Train 5, loss: 0.01054963
+best_epoch 1, best_loss: 7.43780611
+Train 6, loss: 0.01055140
+best_epoch 1, best_loss: 7.43780611
+Train 7, loss: 0.01054701
+best_epoch 1, best_loss: 7.43780611
+<config.params object at 0x7f5edb55fdf0>
+Train 1, loss: 0.01070838
+best_epoch 1, best_loss: 18.86402002
+Train 2, loss: 0.01035815
+best_epoch 2, best_loss: 10.95240831
+<config.params object at 0x7f7f8d48cdf0>
+<config.params object at 0x7ff717428df0>
+Train 1, loss: 0.01898544
+best_epoch 1, best_loss: 16.89377519
+Train 2, loss: 0.01766157
+best_epoch 2, best_loss: 14.43119679
+Train 3, loss: 0.01735218
+best_epoch 2, best_loss: 14.43119679
+Train 4, loss: 0.01712885
+best_epoch 4, best_loss: 14.37697111
+Train 5, loss: 0.01696758
+best_epoch 5, best_loss: 13.58776220
+Train 6, loss: 0.01689093
+best_epoch 5, best_loss: 13.58776220
+Train 7, loss: 0.01688272
+best_epoch 5, best_loss: 13.58776220
+Train 8, loss: 0.01677222
+best_epoch 8, best_loss: 13.52678856
+Train 9, loss: 0.01669624
+best_epoch 8, best_loss: 13.52678856
+Train 10, loss: 0.01663526
+best_epoch 8, best_loss: 13.52678856
+Train 11, loss: 0.01658324
+best_epoch 11, best_loss: 13.14109562
+Train 12, loss: 0.01658289
+best_epoch 12, best_loss: 13.12410777
+Train 13, loss: 0.01655443
+best_epoch 12, best_loss: 13.12410777
+Train 14, loss: 0.01657251
+best_epoch 12, best_loss: 13.12410777
+Train 15, loss: 0.01657757
+best_epoch 12, best_loss: 13.12410777
+Train 16, loss: 0.01646591
+best_epoch 12, best_loss: 13.12410777
+Train 17, loss: 0.01649116
+best_epoch 12, best_loss: 13.12410777
+Train 18, loss: 0.01670627
+best_epoch 18, best_loss: 13.04576521
+Train 19, loss: 0.01649983
+best_epoch 18, best_loss: 13.04576521
+Train 20, loss: 0.01645966
+best_epoch 18, best_loss: 13.04576521
+Train 21, loss: 0.01642635
+best_epoch 18, best_loss: 13.04576521
+Train 22, loss: 0.01644410
+best_epoch 18, best_loss: 13.04576521
+Train 23, loss: 0.01633594
+best_epoch 23, best_loss: 12.78944076
+Train 24, loss: 0.01631075
+best_epoch 23, best_loss: 12.78944076
+Train 25, loss: 0.01639324
+best_epoch 25, best_loss: 12.68454412
+Train 26, loss: 0.01626860
+best_epoch 25, best_loss: 12.68454412
+Train 27, loss: 0.01627944
+best_epoch 25, best_loss: 12.68454412
+Train 28, loss: 0.01620375
+best_epoch 28, best_loss: 12.40344311
+Train 29, loss: 0.01626782
+best_epoch 28, best_loss: 12.40344311
+Train 30, loss: 0.01620060
+best_epoch 28, best_loss: 12.40344311
+Train 31, loss: 0.01618606
+best_epoch 28, best_loss: 12.40344311
+Train 32, loss: 0.01616503
+best_epoch 28, best_loss: 12.40344311
+Train 33, loss: 0.01611149
+best_epoch 33, best_loss: 12.27630664
+Train 34, loss: 0.01608801
+best_epoch 33, best_loss: 12.27630664
+Train 35, loss: 0.01606896
+best_epoch 33, best_loss: 12.27630664
+Train 36, loss: 0.01607488
+best_epoch 36, best_loss: 12.04811286
+Train 37, loss: 0.01606208
+best_epoch 36, best_loss: 12.04811286
+Train 38, loss: 0.01606348
+best_epoch 36, best_loss: 12.04811286
+Train 39, loss: 0.01601067
+best_epoch 36, best_loss: 12.04811286
+Train 40, loss: 0.01602995
+best_epoch 36, best_loss: 12.04811286
+Train 41, loss: 0.01602971
+best_epoch 36, best_loss: 12.04811286
+Train 42, loss: 0.01605266
+best_epoch 36, best_loss: 12.04811286
+Train 43, loss: 0.01606231
+best_epoch 36, best_loss: 12.04811286
+Train 44, loss: 0.01606500
+best_epoch 36, best_loss: 12.04811286
+Train 45, loss: 0.01604912
+best_epoch 36, best_loss: 12.04811286
+Train 46, loss: 0.01606052
+best_epoch 36, best_loss: 12.04811286
+Train 47, loss: 0.01607378
+best_epoch 36, best_loss: 12.04811286
+Train 48, loss: 0.01599101
+best_epoch 36, best_loss: 12.04811286
+Train 49, loss: 0.01600681
+best_epoch 36, best_loss: 12.04811286
+Train 50, loss: 0.01599255
+best_epoch 36, best_loss: 12.04811286
+Train 51, loss: 0.01598382
+best_epoch 36, best_loss: 12.04811286
+Train 52, loss: 0.01600048
+best_epoch 52, best_loss: 12.01885878
+Train 53, loss: 0.01599372
+best_epoch 52, best_loss: 12.01885878
+Train 54, loss: 0.01595383
+best_epoch 52, best_loss: 12.01885878
+Train 55, loss: 0.01591654
+best_epoch 52, best_loss: 12.01885878
+Train 56, loss: 0.01590803
+best_epoch 56, best_loss: 11.87508474
+Train 57, loss: 0.01591411
+best_epoch 57, best_loss: 11.81442997
+Train 58, loss: 0.01589704
+best_epoch 57, best_loss: 11.81442997
+Train 59, loss: 0.01591227
+best_epoch 57, best_loss: 11.81442997
+Train 60, loss: 0.01587234
+best_epoch 57, best_loss: 11.81442997
+Train 61, loss: 0.01585248
+best_epoch 57, best_loss: 11.81442997
+Train 62, loss: 0.01582257
+best_epoch 57, best_loss: 11.81442997
+Train 63, loss: 0.01582935
+best_epoch 57, best_loss: 11.81442997
+<config.params object at 0x7f0357ae4df0>
+Train 1, loss: 0.02180551
+best_epoch 1, best_loss: 131.98942487
+<config.params object at 0x7f0ea3ac0df0>
+Train 1, loss: 0.02171615
+best_epoch 1, best_loss: 22.29175627
+Train 2, loss: 0.02158521
+best_epoch 1, best_loss: 22.29175627
+Train 3, loss: 0.02157078
+best_epoch 1, best_loss: 22.29175627
+<config.params object at 0x7f740e89edf0>
+Train 1, loss: 0.02209385
+best_epoch 1, best_loss: 23.13659293
+Train 2, loss: 0.02197499
+best_epoch 1, best_loss: 23.13659293
+Train 3, loss: 0.02178790
+best_epoch 1, best_loss: 23.13659293
+Train 4, loss: 0.02174901
+best_epoch 1, best_loss: 23.13659293
+Train 5, loss: 0.02170715
+best_epoch 5, best_loss: 22.64789659
+Train 6, loss: 0.02170241
+best_epoch 5, best_loss: 22.64789659
+Train 7, loss: 0.02163184
+best_epoch 7, best_loss: 22.53950668
+Train 8, loss: 0.02157429
+best_epoch 7, best_loss: 22.53950668
+Train 9, loss: 0.02160995
+best_epoch 9, best_loss: 22.45761954
+Train 10, loss: 0.02170301
+best_epoch 9, best_loss: 22.45761954
+Train 11, loss: 0.02169193
+best_epoch 9, best_loss: 22.45761954
+Train 12, loss: 0.02163118
+best_epoch 12, best_loss: 22.44811793
+Train 13, loss: 0.02164913
+best_epoch 12, best_loss: 22.44811793
+Train 14, loss: 0.02158880
+best_epoch 12, best_loss: 22.44811793
+Train 15, loss: 0.02160215
+best_epoch 12, best_loss: 22.44811793
+Train 16, loss: 0.02163507
+best_epoch 12, best_loss: 22.44811793
+Train 17, loss: 0.02161522
+best_epoch 12, best_loss: 22.44811793
+Train 18, loss: 0.02156664
+best_epoch 18, best_loss: 22.24160143
+Train 19, loss: 0.02145681
+best_epoch 19, best_loss: 21.84181182
+Train 20, loss: 0.02146423
+best_epoch 19, best_loss: 21.84181182
+Train 21, loss: 0.02158585
+best_epoch 19, best_loss: 21.84181182
+Train 22, loss: 0.02155285
+best_epoch 19, best_loss: 21.84181182
+Train 23, loss: 0.02146226
+best_epoch 19, best_loss: 21.84181182
+Train 24, loss: 0.02133090
+best_epoch 19, best_loss: 21.84181182
+Train 25, loss: 0.02148266
+best_epoch 19, best_loss: 21.84181182
+Train 26, loss: 0.02160382
+best_epoch 19, best_loss: 21.84181182
+Train 27, loss: 0.02156858
+best_epoch 19, best_loss: 21.84181182
+Train 28, loss: 0.02156006
+best_epoch 19, best_loss: 21.84181182
+Train 29, loss: 0.02154793
+best_epoch 19, best_loss: 21.84181182
+Train 30, loss: 0.02158430
+best_epoch 19, best_loss: 21.84181182
+Train 31, loss: 0.02160429
+best_epoch 19, best_loss: 21.84181182
+Train 32, loss: 0.02160201
+best_epoch 19, best_loss: 21.84181182
+Train 33, loss: 0.02159959
+best_epoch 19, best_loss: 21.84181182
+Train 34, loss: 0.02158197
+best_epoch 19, best_loss: 21.84181182
+<config.params object at 0x7fc18ea76df0>
+Train 1, loss: 0.01643966
+best_epoch 1, best_loss: 12.93100741
+Train 2, loss: 0.01613707
+best_epoch 1, best_loss: 12.93100741
+Train 3, loss: 0.01594708
+best_epoch 1, best_loss: 12.93100741
+Train 4, loss: 0.01559980
+best_epoch 1, best_loss: 12.93100741
+<config.params object at 0x7f100e47adf0>
+Train 1, loss: 0.01557941
+best_epoch 1, best_loss: 19.48630829
+Train 2, loss: 0.01436718
+best_epoch 2, best_loss: 12.42726301
+Train 3, loss: 0.01397086
+best_epoch 2, best_loss: 12.42726301
+Train 4, loss: 0.01368956
+best_epoch 2, best_loss: 12.42726301
+Train 5, loss: 0.01366410
+best_epoch 2, best_loss: 12.42726301
+Train 6, loss: 0.01362867
+best_epoch 2, best_loss: 12.42726301
+Train 7, loss: 0.01351431
+best_epoch 2, best_loss: 12.42726301
+Train 8, loss: 0.01340700
+best_epoch 2, best_loss: 12.42726301
+Train 9, loss: 0.01327396
+best_epoch 2, best_loss: 12.42726301
+Train 10, loss: 0.01322580
+best_epoch 2, best_loss: 12.42726301
+Train 11, loss: 0.01317507
+best_epoch 2, best_loss: 12.42726301
+Train 12, loss: 0.01307393
+best_epoch 2, best_loss: 12.42726301
+Train 13, loss: 0.01302875
+best_epoch 2, best_loss: 12.42726301
+Train 14, loss: 0.01319720
+best_epoch 2, best_loss: 12.42726301
+Train 15, loss: 0.01317857
+best_epoch 2, best_loss: 12.42726301
+Train 16, loss: 0.01307778
+best_epoch 16, best_loss: 8.85082649
+Train 17, loss: 0.01296904
+best_epoch 16, best_loss: 8.85082649
+Train 18, loss: 0.01329957
+best_epoch 16, best_loss: 8.85082649
+Train 19, loss: 0.01296705
+best_epoch 16, best_loss: 8.85082649
+Train 20, loss: 0.01288550
+best_epoch 16, best_loss: 8.85082649
+Train 21, loss: 0.01282945
+best_epoch 16, best_loss: 8.85082649
+Train 22, loss: 0.01281971
+best_epoch 16, best_loss: 8.85082649
+Train 23, loss: 0.01281492
+best_epoch 16, best_loss: 8.85082649
+Train 24, loss: 0.01283994
+best_epoch 16, best_loss: 8.85082649
+Train 25, loss: 0.01287502
+best_epoch 16, best_loss: 8.85082649
+Train 26, loss: 0.01285351
+best_epoch 16, best_loss: 8.85082649
+Train 27, loss: 0.01299546
+best_epoch 16, best_loss: 8.85082649
+Train 28, loss: 0.01282720
+best_epoch 16, best_loss: 8.85082649
+Train 29, loss: 0.01278460
+best_epoch 16, best_loss: 8.85082649
+Train 30, loss: 0.01278338
+best_epoch 16, best_loss: 8.85082649
+Train 31, loss: 0.01274291
+best_epoch 16, best_loss: 8.85082649
+Train 32, loss: 0.01278109
+best_epoch 16, best_loss: 8.85082649
+Train 33, loss: 0.01272739
+best_epoch 16, best_loss: 8.85082649
+Train 34, loss: 0.01275710
+best_epoch 16, best_loss: 8.85082649
+Train 35, loss: 0.01277892
+best_epoch 16, best_loss: 8.85082649
+Train 36, loss: 0.01272887
+best_epoch 16, best_loss: 8.85082649
+Train 37, loss: 0.01271859
+best_epoch 16, best_loss: 8.85082649
+Train 38, loss: 0.01272892
+best_epoch 16, best_loss: 8.85082649
+Train 39, loss: 0.01291330
+best_epoch 16, best_loss: 8.85082649
+Train 40, loss: 0.01299143
+best_epoch 16, best_loss: 8.85082649
+Train 41, loss: 0.01285625
+best_epoch 16, best_loss: 8.85082649
+Train 42, loss: 0.01281024
+best_epoch 16, best_loss: 8.85082649
+Train 43, loss: 0.01276954
+best_epoch 16, best_loss: 8.85082649
+Train 44, loss: 0.01282227
+best_epoch 16, best_loss: 8.85082649
+Train 45, loss: 0.01285221
+best_epoch 16, best_loss: 8.85082649
+Train 46, loss: 0.01284009
+best_epoch 16, best_loss: 8.85082649
+Train 47, loss: 0.01274052
+best_epoch 16, best_loss: 8.85082649
+Train 48, loss: 0.01270115
+best_epoch 16, best_loss: 8.85082649
+Train 49, loss: 0.01271193
+best_epoch 16, best_loss: 8.85082649
+Train 50, loss: 0.01268244
+best_epoch 16, best_loss: 8.85082649
+<config.params object at 0x7f6ab9a74d30>
+<config.params object at 0x7f2c28bd1fd0>
+<config.params object at 0x7fcb98dbad30>
+Train 1, loss: 0.04420869
+best_epoch 1, best_loss: 58.15561742 , best_losscd: 0.04317075
+Train 2, loss: 0.03731108
+best_epoch 2, best_loss: 44.04338929 , best_losscd: 0.03830738
+<config.params object at 0x7f7f2a21cd30>
+Train 1, loss: 0.04421587
+best_epoch 1, best_loss: 46.84997697 , best_losscd: 0.03943613
+Train 2, loss: 0.03746698
+best_epoch 2, best_loss: 38.29454685 , best_losscd: 0.03612794
+Train 3, loss: 0.03666208
+best_epoch 2, best_loss: 38.29454685 , best_losscd: 0.03612794
+Train 4, loss: 0.03597857
+best_epoch 4, best_loss: 35.47956493 , best_losscd: 0.03484438
+Train 5, loss: 0.03550663
+best_epoch 4, best_loss: 35.47956493 , best_losscd: 0.03484438
+Train 6, loss: 0.03514336
+best_epoch 6, best_loss: 35.44377149 , best_losscd: 0.03500533
+Train 7, loss: 0.03472334
+best_epoch 7, best_loss: 34.31760979 , best_losscd: 0.03439334
+Train 8, loss: 0.03435072
+best_epoch 7, best_loss: 34.31760979 , best_losscd: 0.03439334
+Train 9, loss: 0.03411401
+best_epoch 7, best_loss: 34.31760979 , best_losscd: 0.03439334
+Train 10, loss: 0.03384700
+best_epoch 10, best_loss: 33.60027152 , best_losscd: 0.03415632
+Train 11, loss: 0.03343613
+best_epoch 11, best_loss: 33.39055851 , best_losscd: 0.03420530
+Train 12, loss: 0.03327330
+best_epoch 11, best_loss: 33.39055851 , best_losscd: 0.03420530
+Train 13, loss: 0.03313484
+best_epoch 13, best_loss: 31.45893771 , best_losscd: 0.03320230
+Train 14, loss: 0.03284537
+best_epoch 13, best_loss: 31.45893771 , best_losscd: 0.03320230
+Train 15, loss: 0.03271826
+best_epoch 15, best_loss: 30.66208501 , best_losscd: 0.03291243
+Train 16, loss: 0.03249626
+best_epoch 16, best_loss: 30.13105330 , best_losscd: 0.03270515
+Train 17, loss: 0.03242535
+best_epoch 16, best_loss: 30.13105330 , best_losscd: 0.03270515
+Train 18, loss: 0.03235573
+best_epoch 16, best_loss: 30.13105330 , best_losscd: 0.03270515
+Train 19, loss: 0.03216966
+best_epoch 19, best_loss: 28.83141189 , best_losscd: 0.03210557
+Train 20, loss: 0.03207112
+best_epoch 19, best_loss: 28.83141189 , best_losscd: 0.03210557
+Train 21, loss: 0.03193519
+best_epoch 19, best_loss: 28.83141189 , best_losscd: 0.03210557
+Train 22, loss: 0.03183964
+best_epoch 19, best_loss: 28.83141189 , best_losscd: 0.03210557
+Train 23, loss: 0.03170062
+best_epoch 19, best_loss: 28.83141189 , best_losscd: 0.03210557
+Train 24, loss: 0.03162005
+best_epoch 24, best_loss: 28.02831281 , best_losscd: 0.03157365
+Train 25, loss: 0.03157007
+best_epoch 24, best_loss: 28.02831281 , best_losscd: 0.03157365
+Train 26, loss: 0.03137069
+best_epoch 26, best_loss: 27.12417698 , best_losscd: 0.03132584
+Train 27, loss: 0.03134149
+best_epoch 26, best_loss: 27.12417698 , best_losscd: 0.03132584
+Train 28, loss: 0.03128645
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 29, loss: 0.03114210
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 30, loss: 0.03119625
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 31, loss: 0.03097605
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 32, loss: 0.03087671
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 33, loss: 0.03082406
+best_epoch 28, best_loss: 26.83349711 , best_losscd: 0.03117727
+Train 34, loss: 0.03075302
+best_epoch 34, best_loss: 25.66255573 , best_losscd: 0.03070507
+Train 35, loss: 0.03075271
+best_epoch 34, best_loss: 25.66255573 , best_losscd: 0.03070507
+Train 36, loss: 0.03059512
+best_epoch 34, best_loss: 25.66255573 , best_losscd: 0.03070507
+Train 37, loss: 0.03057847
+best_epoch 34, best_loss: 25.66255573 , best_losscd: 0.03070507
+Train 38, loss: 0.03054418
+best_epoch 34, best_loss: 25.66255573 , best_losscd: 0.03070507
+Train 39, loss: 0.03043534
+best_epoch 39, best_loss: 25.23422873 , best_losscd: 0.03039905
+Train 40, loss: 0.03037782
+best_epoch 40, best_loss: 24.90918952 , best_losscd: 0.03027180
+Train 41, loss: 0.03023323
+best_epoch 40, best_loss: 24.90918952 , best_losscd: 0.03027180
+Train 42, loss: 0.03030790
+best_epoch 40, best_loss: 24.90918952 , best_losscd: 0.03027180
+Train 43, loss: 0.03032075
+best_epoch 43, best_loss: 24.84496097 , best_losscd: 0.03046605
+Train 44, loss: 0.03018069
+best_epoch 43, best_loss: 24.84496097 , best_losscd: 0.03046605
+Train 45, loss: 0.03009761
+best_epoch 43, best_loss: 24.84496097 , best_losscd: 0.03046605
+Train 46, loss: 0.03002148
+best_epoch 46, best_loss: 24.46057520 , best_losscd: 0.03005331
+Train 47, loss: 0.03002811
+best_epoch 47, best_loss: 24.12676196 , best_losscd: 0.03007307
+Train 48, loss: 0.02996400
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 49, loss: 0.02992211
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 50, loss: 0.02990538
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 51, loss: 0.02981507
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 52, loss: 0.02980780
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 53, loss: 0.02977116
+best_epoch 48, best_loss: 24.02714414 , best_losscd: 0.02998044
+Train 54, loss: 0.02966961
+best_epoch 54, best_loss: 23.94416543 , best_losscd: 0.03005143
+Train 55, loss: 0.02966190
+best_epoch 55, best_loss: 23.82675470 , best_losscd: 0.02978079
+Train 56, loss: 0.02963830
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 57, loss: 0.02951686
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 58, loss: 0.02951986
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 59, loss: 0.02949712
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 60, loss: 0.02948000
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 61, loss: 0.02941008
+best_epoch 56, best_loss: 23.56643900 , best_losscd: 0.02979240
+Train 62, loss: 0.02938057
+best_epoch 62, best_loss: 22.73249153 , best_losscd: 0.02939538
+Train 63, loss: 0.02934780
+best_epoch 62, best_loss: 22.73249153 , best_losscd: 0.02939538
+Train 64, loss: 0.02929925
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 65, loss: 0.02928113
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 66, loss: 0.02923324
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 67, loss: 0.02922421
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 68, loss: 0.02921131
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 69, loss: 0.02918847
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 70, loss: 0.02912974
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 71, loss: 0.02913473
+best_epoch 64, best_loss: 22.36297653 , best_losscd: 0.02923215
+Train 72, loss: 0.02906297
+best_epoch 72, best_loss: 22.16786717 , best_losscd: 0.02912937
+Train 73, loss: 0.02903603
+best_epoch 73, best_loss: 22.02753899 , best_losscd: 0.02915275
+Train 74, loss: 0.02901587
+best_epoch 73, best_loss: 22.02753899 , best_losscd: 0.02915275
+Train 75, loss: 0.02896137
+best_epoch 73, best_loss: 22.02753899 , best_losscd: 0.02915275
+Train 76, loss: 0.02895884
+best_epoch 73, best_loss: 22.02753899 , best_losscd: 0.02915275
+Train 77, loss: 0.02890994
+best_epoch 73, best_loss: 22.02753899 , best_losscd: 0.02915275
+Train 78, loss: 0.02886559
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 79, loss: 0.02890386
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 80, loss: 0.02883138
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 81, loss: 0.02884064
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 82, loss: 0.02980128
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 83, loss: 0.03059818
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 84, loss: 0.02963044
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 85, loss: 0.02934853
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 86, loss: 0.02909623
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 87, loss: 0.02901533
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 88, loss: 0.02896895
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 89, loss: 0.02885093
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 90, loss: 0.02882030
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 91, loss: 0.02874276
+best_epoch 78, best_loss: 21.59944025 , best_losscd: 0.02885256
+Train 92, loss: 0.02870532
+best_epoch 92, best_loss: 21.20034563 , best_losscd: 0.02881559
+Train 93, loss: 0.02868010
+best_epoch 92, best_loss: 21.20034563 , best_losscd: 0.02881559
+Train 94, loss: 0.02862210
+best_epoch 92, best_loss: 21.20034563 , best_losscd: 0.02881559
+Train 95, loss: 0.02864197
+best_epoch 92, best_loss: 21.20034563 , best_losscd: 0.02881559
+Train 96, loss: 0.02860582
+best_epoch 96, best_loss: 21.11461817 , best_losscd: 0.02869188
+Train 97, loss: 0.02855226
+best_epoch 97, best_loss: 21.01445642 , best_losscd: 0.02859221
+Train 98, loss: 0.02852964
+best_epoch 97, best_loss: 21.01445642 , best_losscd: 0.02859221
+Train 99, loss: 0.02853529
+best_epoch 99, best_loss: 20.89797812 , best_losscd: 0.02855692
+Train 100, loss: 0.02848594
+best_epoch 99, best_loss: 20.89797812 , best_losscd: 0.02855692
+Train 101, loss: 0.02843639
+best_epoch 99, best_loss: 20.89797812 , best_losscd: 0.02855692
+Train 102, loss: 0.02842791
+best_epoch 102, best_loss: 20.78926343 , best_losscd: 0.02848018
+Train 103, loss: 0.02842780
+best_epoch 102, best_loss: 20.78926343 , best_losscd: 0.02848018
+Train 104, loss: 0.02840215
+best_epoch 104, best_loss: 20.60999213 , best_losscd: 0.02842698
+Train 105, loss: 0.02833779
+best_epoch 104, best_loss: 20.60999213 , best_losscd: 0.02842698
+Train 106, loss: 0.02838022
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 107, loss: 0.02832608
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 108, loss: 0.02836336
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 109, loss: 0.02834403
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 110, loss: 0.02832074
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 111, loss: 0.02831804
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 112, loss: 0.02825655
+best_epoch 106, best_loss: 20.44834564 , best_losscd: 0.02827811
+Train 113, loss: 0.02826345
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 114, loss: 0.02825003
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 115, loss: 0.02826225
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 116, loss: 0.02816915
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 117, loss: 0.02820424
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 118, loss: 0.02815875
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 119, loss: 0.02815484
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 120, loss: 0.02815300
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 121, loss: 0.02817373
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 122, loss: 0.02829019
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 123, loss: 0.02818636
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 124, loss: 0.02812230
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 125, loss: 0.02809044
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 126, loss: 0.02807030
+best_epoch 113, best_loss: 20.27069019 , best_losscd: 0.02825623
+Train 127, loss: 0.02805242
+best_epoch 127, best_loss: 20.23076051 , best_losscd: 0.02819499
+Train 128, loss: 0.02801899
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 129, loss: 0.02805468
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 130, loss: 0.02798110
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 131, loss: 0.02803794
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 132, loss: 0.02798799
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 133, loss: 0.02800708
+best_epoch 128, best_loss: 19.94281055 , best_losscd: 0.02803409
+Train 134, loss: 0.02798975
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 135, loss: 0.02798055
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 136, loss: 0.02793637
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 137, loss: 0.02796233
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 138, loss: 0.02797495
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 139, loss: 0.02792119
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 140, loss: 0.02786862
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 141, loss: 0.02787188
+best_epoch 134, best_loss: 19.93563816 , best_losscd: 0.02796875
+Train 142, loss: 0.02784737
+best_epoch 142, best_loss: 19.90357609 , best_losscd: 0.02801564
+Train 143, loss: 0.02789285
+best_epoch 142, best_loss: 19.90357609 , best_losscd: 0.02801564
+Train 144, loss: 0.02784544
+best_epoch 144, best_loss: 19.72767754 , best_losscd: 0.02788121
+Train 145, loss: 0.02784565
+best_epoch 144, best_loss: 19.72767754 , best_losscd: 0.02788121
+Train 146, loss: 0.02783357
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 147, loss: 0.02782112
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 148, loss: 0.02781288
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 149, loss: 0.02780114
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 150, loss: 0.02778708
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 151, loss: 0.02780980
+best_epoch 146, best_loss: 19.52308217 , best_losscd: 0.02779228
+Train 152, loss: 0.02777075
+best_epoch 152, best_loss: 19.51843982 , best_losscd: 0.02784174
+Train 153, loss: 0.02776991
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 154, loss: 0.02772588
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 155, loss: 0.02774319
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 156, loss: 0.02776170
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 157, loss: 0.02773775
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 158, loss: 0.02771130
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 159, loss: 0.02769070
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 160, loss: 0.02769223
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 161, loss: 0.02769744
+best_epoch 153, best_loss: 19.31657485 , best_losscd: 0.02768228
+Train 162, loss: 0.02769536
+best_epoch 162, best_loss: 19.31602277 , best_losscd: 0.02769267
+Train 163, loss: 0.02765967
+best_epoch 162, best_loss: 19.31602277 , best_losscd: 0.02769267
+Train 164, loss: 0.02764916
+best_epoch 162, best_loss: 19.31602277 , best_losscd: 0.02769267
+Train 165, loss: 0.02772025
+best_epoch 162, best_loss: 19.31602277 , best_losscd: 0.02769267
+Train 166, loss: 0.02765471
+best_epoch 162, best_loss: 19.31602277 , best_losscd: 0.02769267
+Train 167, loss: 0.02764186
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 168, loss: 0.02760483
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 169, loss: 0.02758445
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 170, loss: 0.02761819
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 171, loss: 0.02762974
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 172, loss: 0.02759650
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 173, loss: 0.02759510
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 174, loss: 0.02759417
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 175, loss: 0.02757648
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 176, loss: 0.02758814
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 177, loss: 0.02754782
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 178, loss: 0.02757464
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 179, loss: 0.02755625
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 180, loss: 0.02754531
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 181, loss: 0.02755282
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 182, loss: 0.02751071
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 183, loss: 0.02755640
+best_epoch 167, best_loss: 19.15324014 , best_losscd: 0.02757831
+Train 184, loss: 0.02750627
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 185, loss: 0.02750159
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 186, loss: 0.02750091
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 187, loss: 0.02751123
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 188, loss: 0.02749008
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 189, loss: 0.02747139
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 190, loss: 0.02751129
+best_epoch 184, best_loss: 19.03478731 , best_losscd: 0.02752108
+Train 191, loss: 0.02744295
+best_epoch 191, best_loss: 18.78637120 , best_losscd: 0.02738843
+Train 192, loss: 0.02752723
+best_epoch 191, best_loss: 18.78637120 , best_losscd: 0.02738843
+Train 193, loss: 0.02745665
+best_epoch 191, best_loss: 18.78637120 , best_losscd: 0.02738843
+Train 194, loss: 0.02741679
+best_epoch 191, best_loss: 18.78637120 , best_losscd: 0.02738843
+Train 195, loss: 0.02740687
+best_epoch 195, best_loss: 18.72620849 , best_losscd: 0.02733847
+Train 196, loss: 0.02737882
+best_epoch 195, best_loss: 18.72620849 , best_losscd: 0.02733847
+Train 197, loss: 0.02741343
+best_epoch 195, best_loss: 18.72620849 , best_losscd: 0.02733847
+Train 198, loss: 0.02743611
+best_epoch 195, best_loss: 18.72620849 , best_losscd: 0.02733847
+Train 199, loss: 0.02739164
+best_epoch 195, best_loss: 18.72620849 , best_losscd: 0.02733847
+Train 200, loss: 0.02741233
+best_epoch 200, best_loss: 18.72140348 , best_losscd: 0.02734664
+<config.params object at 0x7f1e1b728370>
+<config.params object at 0x7f7d9af07370>
+Train 1, loss: 0.03606479
+best_epoch 1, best_loss: 4.99056794 , best_losscd: 0.03224507
+Train 2, loss: 0.02904150
+best_epoch 2, best_loss: 3.48272753 , best_losscd: 0.02792140
+Train 3, loss: 0.02700441
+best_epoch 3, best_loss: 3.15548157 , best_losscd: 0.02690917
+Train 4, loss: 0.02592606
+best_epoch 4, best_loss: 2.79762725 , best_losscd: 0.02555901
+Train 5, loss: 0.02562515
+best_epoch 5, best_loss: 2.71236648 , best_losscd: 0.02534632
+Train 6, loss: 0.02499283
+best_epoch 5, best_loss: 2.71236648 , best_losscd: 0.02534632
+Train 7, loss: 0.02482904
+best_epoch 7, best_loss: 2.58112776 , best_losscd: 0.02482899
+Train 8, loss: 0.02423097
+best_epoch 8, best_loss: 2.32020450 , best_losscd: 0.02385759
+Train 9, loss: 0.02402756
+best_epoch 9, best_loss: 2.31412689 , best_losscd: 0.02393708
+Train 10, loss: 0.02362544
+best_epoch 9, best_loss: 2.31412689 , best_losscd: 0.02393708
+Train 11, loss: 0.02334845
+best_epoch 11, best_loss: 2.23330442 , best_losscd: 0.02350219
+Train 12, loss: 0.02324982
+best_epoch 11, best_loss: 2.23330442 , best_losscd: 0.02350219
+Train 13, loss: 0.02308835
+best_epoch 13, best_loss: 2.04678326 , best_losscd: 0.02258062
+Train 14, loss: 0.02286644
+best_epoch 13, best_loss: 2.04678326 , best_losscd: 0.02258062
+Train 15, loss: 0.02264935
+best_epoch 15, best_loss: 2.01123385 , best_losscd: 0.02253497
+Train 16, loss: 0.02247203
+best_epoch 15, best_loss: 2.01123385 , best_losscd: 0.02253497
+Train 17, loss: 0.02220999
+best_epoch 17, best_loss: 1.92077165 , best_losscd: 0.02206948
+Train 18, loss: 0.02220849
+best_epoch 17, best_loss: 1.92077165 , best_losscd: 0.02206948
+Train 19, loss: 0.02217136
+best_epoch 17, best_loss: 1.92077165 , best_losscd: 0.02206948
+Train 20, loss: 0.02196869
+best_epoch 17, best_loss: 1.92077165 , best_losscd: 0.02206948
+Train 21, loss: 0.02197552
+best_epoch 17, best_loss: 1.92077165 , best_losscd: 0.02206948
+Train 22, loss: 0.02171290
+best_epoch 22, best_loss: 1.77258172 , best_losscd: 0.02137286
+Train 23, loss: 0.02155560
+best_epoch 22, best_loss: 1.77258172 , best_losscd: 0.02137286
+Train 24, loss: 0.02152143
+best_epoch 22, best_loss: 1.77258172 , best_losscd: 0.02137286
+Train 25, loss: 0.02156572
+best_epoch 22, best_loss: 1.77258172 , best_losscd: 0.02137286
+Train 26, loss: 0.02126626
+best_epoch 22, best_loss: 1.77258172 , best_losscd: 0.02137286
+Train 27, loss: 0.02122798
+best_epoch 27, best_loss: 1.72874288 , best_losscd: 0.02111223
+Train 28, loss: 0.02168155
+best_epoch 27, best_loss: 1.72874288 , best_losscd: 0.02111223
+Train 29, loss: 0.02113316
+best_epoch 27, best_loss: 1.72874288 , best_losscd: 0.02111223
+Train 30, loss: 0.02079490
+best_epoch 30, best_loss: 1.63407650 , best_losscd: 0.02074107
+Train 31, loss: 0.02070866
+best_epoch 30, best_loss: 1.63407650 , best_losscd: 0.02074107
+Train 32, loss: 0.02066048
+best_epoch 30, best_loss: 1.63407650 , best_losscd: 0.02074107
+Train 33, loss: 0.02078557
+best_epoch 30, best_loss: 1.63407650 , best_losscd: 0.02074107
+Train 34, loss: 0.02066433
+best_epoch 30, best_loss: 1.63407650 , best_losscd: 0.02074107
+Train 35, loss: 0.02034159
+best_epoch 35, best_loss: 1.57915868 , best_losscd: 0.02044218
+Train 36, loss: 0.02037189
+best_epoch 36, best_loss: 1.56789790 , best_losscd: 0.02046775
+Train 37, loss: 0.02044635
+best_epoch 37, best_loss: 1.54526167 , best_losscd: 0.02034185
+Train 38, loss: 0.02046760
+best_epoch 38, best_loss: 1.52572446 , best_losscd: 0.02017084
+Train 39, loss: 0.02023400
+best_epoch 39, best_loss: 1.48850748 , best_losscd: 0.02002437
+Train 40, loss: 0.02015857
+best_epoch 39, best_loss: 1.48850748 , best_losscd: 0.02002437
+Train 41, loss: 0.02007651
+best_epoch 39, best_loss: 1.48850748 , best_losscd: 0.02002437
+Train 42, loss: 0.02008440
+best_epoch 39, best_loss: 1.48850748 , best_losscd: 0.02002437
+Train 43, loss: 0.01999061
+best_epoch 39, best_loss: 1.48850748 , best_losscd: 0.02002437
+Train 44, loss: 0.01982409
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 45, loss: 0.01974115
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 46, loss: 0.01995446
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 47, loss: 0.01979371
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 48, loss: 0.01969266
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 49, loss: 0.01962176
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 50, loss: 0.01958816
+best_epoch 44, best_loss: 1.47187430 , best_losscd: 0.01990617
+Train 51, loss: 0.01954472
+best_epoch 51, best_loss: 1.42109862 , best_losscd: 0.01973926
+Train 52, loss: 0.01945606
+best_epoch 51, best_loss: 1.42109862 , best_losscd: 0.01973926
+Train 53, loss: 0.01935999
+best_epoch 53, best_loss: 1.37870727 , best_losscd: 0.01939792
+Train 54, loss: 0.01939199
+best_epoch 53, best_loss: 1.37870727 , best_losscd: 0.01939792
+Train 55, loss: 0.01932223
+best_epoch 55, best_loss: 1.34519217 , best_losscd: 0.01924864
+Train 56, loss: 0.01927925
+best_epoch 55, best_loss: 1.34519217 , best_losscd: 0.01924864
+Train 57, loss: 0.01920720
+best_epoch 57, best_loss: 1.34210583 , best_losscd: 0.01927742
+Train 58, loss: 0.01924722
+best_epoch 57, best_loss: 1.34210583 , best_losscd: 0.01927742
+Train 59, loss: 0.01917439
+best_epoch 57, best_loss: 1.34210583 , best_losscd: 0.01927742
+Train 60, loss: 0.01912260
+best_epoch 57, best_loss: 1.34210583 , best_losscd: 0.01927742
+Train 61, loss: 0.01903558
+best_epoch 61, best_loss: 1.31759916 , best_losscd: 0.01912375
+Train 62, loss: 0.01897757
+best_epoch 61, best_loss: 1.31759916 , best_losscd: 0.01912375
+Train 63, loss: 0.01897284
+best_epoch 61, best_loss: 1.31759916 , best_losscd: 0.01912375
+Train 64, loss: 0.01899698
+best_epoch 61, best_loss: 1.31759916 , best_losscd: 0.01912375
+Train 65, loss: 0.01895496
+best_epoch 65, best_loss: 1.28740114 , best_losscd: 0.01891144
+Train 66, loss: 0.01888429
+best_epoch 65, best_loss: 1.28740114 , best_losscd: 0.01891144
+Train 67, loss: 0.01884296
+best_epoch 67, best_loss: 1.27387055 , best_losscd: 0.01881904
+Train 68, loss: 0.01882098
+best_epoch 68, best_loss: 1.26550195 , best_losscd: 0.01878379
+Train 69, loss: 0.01868723
+best_epoch 68, best_loss: 1.26550195 , best_losscd: 0.01878379
+Train 70, loss: 0.01877156
+best_epoch 70, best_loss: 1.24302993 , best_losscd: 0.01870107
+Train 71, loss: 0.01866369
+best_epoch 70, best_loss: 1.24302993 , best_losscd: 0.01870107
+Train 72, loss: 0.01869517
+best_epoch 70, best_loss: 1.24302993 , best_losscd: 0.01870107
+Train 73, loss: 0.01856119
+best_epoch 70, best_loss: 1.24302993 , best_losscd: 0.01870107
+Train 74, loss: 0.01862181
+best_epoch 70, best_loss: 1.24302993 , best_losscd: 0.01870107
+Train 75, loss: 0.01861125
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 76, loss: 0.01857226
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 77, loss: 0.01857483
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 78, loss: 0.01849325
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 79, loss: 0.01862078
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 80, loss: 0.01851740
+best_epoch 75, best_loss: 1.24164795 , best_losscd: 0.01864959
+Train 81, loss: 0.01847584
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 82, loss: 0.01840928
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 83, loss: 0.01840453
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 84, loss: 0.01843914
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 85, loss: 0.01840004
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 86, loss: 0.01837731
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 87, loss: 0.01833744
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 88, loss: 0.01834352
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 89, loss: 0.01826938
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 90, loss: 0.01823030
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 91, loss: 0.01819311
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 92, loss: 0.01820490
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 93, loss: 0.01817972
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 94, loss: 0.01826578
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 95, loss: 0.01816401
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 96, loss: 0.01812447
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 97, loss: 0.01815668
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 98, loss: 0.01815260
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 99, loss: 0.01800680
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 100, loss: 0.01804099
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 101, loss: 0.01804581
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 102, loss: 0.01806403
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 103, loss: 0.01796236
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 104, loss: 0.01790623
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 105, loss: 0.01793576
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 106, loss: 0.01791883
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 107, loss: 0.01793127
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 108, loss: 0.01791409
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 109, loss: 0.01786757
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 110, loss: 0.01794150
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 111, loss: 0.01789361
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 112, loss: 0.01779886
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 113, loss: 0.01777907
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 114, loss: 0.01779370
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 115, loss: 0.01778631
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 116, loss: 0.01771980
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 117, loss: 0.01767269
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 118, loss: 0.01773982
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 119, loss: 0.01768701
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 120, loss: 0.01768737
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 121, loss: 0.01766145
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 122, loss: 0.01765232
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 123, loss: 0.01760440
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 124, loss: 0.01763825
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 125, loss: 0.01753535
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 126, loss: 0.01758501
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 127, loss: 0.01761200
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 128, loss: 0.01760920
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 129, loss: 0.01762191
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 130, loss: 0.01758980
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 131, loss: 0.01761583
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 132, loss: 0.01754114
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 133, loss: 0.01752548
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 134, loss: 0.01753231
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 135, loss: 0.01757819
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 136, loss: 0.01746763
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 137, loss: 0.01748694
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 138, loss: 0.01745860
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 139, loss: 0.01744520
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 140, loss: 0.01737904
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 141, loss: 0.01738296
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 142, loss: 0.01734075
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 143, loss: 0.01732232
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 144, loss: 0.01739763
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 145, loss: 0.01736882
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 146, loss: 0.01743172
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 147, loss: 0.01737617
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 148, loss: 0.01730959
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 149, loss: 0.01741355
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 150, loss: 0.01749313
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 151, loss: 0.01735736
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 152, loss: 0.01725920
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 153, loss: 0.01724752
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 154, loss: 0.01719643
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 155, loss: 0.01724113
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 156, loss: 0.01724626
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 157, loss: 0.01717856
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 158, loss: 0.01716478
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 159, loss: 0.01721242
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 160, loss: 0.01716332
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 161, loss: 0.01710617
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 162, loss: 0.01717097
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 163, loss: 0.01716190
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 164, loss: 0.01711405
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 165, loss: 0.01707321
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 166, loss: 0.01709080
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 167, loss: 0.01714084
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 168, loss: 0.01717569
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 169, loss: 0.01715595
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 170, loss: 0.01715777
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 171, loss: 0.01707614
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 172, loss: 0.01702315
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 173, loss: 0.01709009
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+Train 174, loss: 0.01710803
+best_epoch 81, best_loss: 1.21810649 , best_losscd: 0.01853262
+<config.params object at 0x7f09ae7c0370>
+Train 1, loss: 0.02671050
+best_epoch 1, best_loss: 2.63009700 , best_losscd: 0.02647570
+Train 2, loss: 0.02362621
+best_epoch 2, best_loss: 2.27772379 , best_losscd: 0.02570576
+Train 3, loss: 0.02300150
+best_epoch 3, best_loss: 1.72975514 , best_losscd: 0.02312247
+Train 4, loss: 0.02253009
+best_epoch 4, best_loss: 1.63369226 , best_losscd: 0.02263998
+Train 5, loss: 0.02233049
+best_epoch 4, best_loss: 1.63369226 , best_losscd: 0.02263998
+Train 6, loss: 0.02211267
+best_epoch 6, best_loss: 1.54628933 , best_losscd: 0.02228116
+Train 7, loss: 0.02188749
+best_epoch 7, best_loss: 1.50533433 , best_losscd: 0.02196716
+Train 8, loss: 0.02174607
+best_epoch 8, best_loss: 1.41111254 , best_losscd: 0.02137452
+Train 9, loss: 0.02156969
+best_epoch 8, best_loss: 1.41111254 , best_losscd: 0.02137452
+Train 10, loss: 0.02145224
+best_epoch 8, best_loss: 1.41111254 , best_losscd: 0.02137452
+Train 11, loss: 0.02130153
+best_epoch 8, best_loss: 1.41111254 , best_losscd: 0.02137452
+Train 12, loss: 0.02118491
+best_epoch 12, best_loss: 1.38265217 , best_losscd: 0.02116675
+Train 13, loss: 0.02110568
+best_epoch 13, best_loss: 1.33961863 , best_losscd: 0.02097830
+Train 14, loss: 0.02097294
+best_epoch 13, best_loss: 1.33961863 , best_losscd: 0.02097830
+Train 15, loss: 0.02083097
+best_epoch 13, best_loss: 1.33961863 , best_losscd: 0.02097830
+Train 16, loss: 0.02080667
+best_epoch 16, best_loss: 1.32817353 , best_losscd: 0.02087267
+Train 17, loss: 0.02068010
+best_epoch 16, best_loss: 1.32817353 , best_losscd: 0.02087267
+Train 18, loss: 0.02058261
+best_epoch 16, best_loss: 1.32817353 , best_losscd: 0.02087267
+Train 19, loss: 0.02052405
+best_epoch 16, best_loss: 1.32817353 , best_losscd: 0.02087267
+Train 20, loss: 0.02041987
+best_epoch 20, best_loss: 1.30329497 , best_losscd: 0.02080204
+Train 21, loss: 0.02040026
+best_epoch 20, best_loss: 1.30329497 , best_losscd: 0.02080204
+Train 22, loss: 0.02031732
+best_epoch 22, best_loss: 1.30243670 , best_losscd: 0.02089563
+Train 23, loss: 0.02024734
+best_epoch 22, best_loss: 1.30243670 , best_losscd: 0.02089563
+Train 24, loss: 0.02015288
+best_epoch 24, best_loss: 1.23861715 , best_losscd: 0.02024992
+Train 25, loss: 0.02014116
+best_epoch 25, best_loss: 1.22159139 , best_losscd: 0.02024296
+Train 26, loss: 0.02000215
+best_epoch 26, best_loss: 1.21858225 , best_losscd: 0.02018085
+Train 27, loss: 0.01995764
+best_epoch 26, best_loss: 1.21858225 , best_losscd: 0.02018085
+Train 28, loss: 0.01992636
+best_epoch 28, best_loss: 1.21193203 , best_losscd: 0.02010792
+Train 29, loss: 0.01982398
+best_epoch 29, best_loss: 1.19136426 , best_losscd: 0.01999234
+Train 30, loss: 0.01985723
+best_epoch 30, best_loss: 1.16199610 , best_losscd: 0.01980500
+Train 31, loss: 0.01968251
+best_epoch 31, best_loss: 1.14028113 , best_losscd: 0.01962445
+Train 32, loss: 0.01963602
+best_epoch 31, best_loss: 1.14028113 , best_losscd: 0.01962445
+Train 33, loss: 0.01962807
+best_epoch 31, best_loss: 1.14028113 , best_losscd: 0.01962445
+Train 34, loss: 0.01957942
+best_epoch 31, best_loss: 1.14028113 , best_losscd: 0.01962445
+Train 35, loss: 0.01951122
+best_epoch 35, best_loss: 1.12959231 , best_losscd: 0.01960163
+Train 36, loss: 0.01943296
+best_epoch 35, best_loss: 1.12959231 , best_losscd: 0.01960163
+Train 37, loss: 0.01939439
+best_epoch 35, best_loss: 1.12959231 , best_losscd: 0.01960163
+Train 38, loss: 0.01936921
+best_epoch 38, best_loss: 1.10513718 , best_losscd: 0.01944843
+Train 39, loss: 0.01931195
+best_epoch 39, best_loss: 1.08492769 , best_losscd: 0.01924182
+Train 40, loss: 0.01929728
+best_epoch 39, best_loss: 1.08492769 , best_losscd: 0.01924182
+Train 41, loss: 0.01927851
+best_epoch 39, best_loss: 1.08492769 , best_losscd: 0.01924182
+Train 42, loss: 0.01919724
+best_epoch 39, best_loss: 1.08492769 , best_losscd: 0.01924182
+Train 43, loss: 0.01917327
+best_epoch 43, best_loss: 1.05892549 , best_losscd: 0.01906675
+Train 44, loss: 0.01914690
+best_epoch 43, best_loss: 1.05892549 , best_losscd: 0.01906675
+Train 45, loss: 0.01908495
+best_epoch 43, best_loss: 1.05892549 , best_losscd: 0.01906675
+Train 46, loss: 0.01904260
+best_epoch 43, best_loss: 1.05892549 , best_losscd: 0.01906675
+Train 47, loss: 0.01899912
+best_epoch 43, best_loss: 1.05892549 , best_losscd: 0.01906675
+Train 48, loss: 0.01897506
+best_epoch 48, best_loss: 1.05685151 , best_losscd: 0.01910747
+Train 49, loss: 0.01897898
+best_epoch 49, best_loss: 1.04263742 , best_losscd: 0.01893574
+Train 50, loss: 0.01889567
+best_epoch 49, best_loss: 1.04263742 , best_losscd: 0.01893574
+Train 51, loss: 0.01891406
+best_epoch 51, best_loss: 1.04067362 , best_losscd: 0.01893896
+Train 52, loss: 0.01887407
+best_epoch 51, best_loss: 1.04067362 , best_losscd: 0.01893896
+Train 53, loss: 0.01880811
+best_epoch 51, best_loss: 1.04067362 , best_losscd: 0.01893896
+Train 54, loss: 0.01880705
+best_epoch 54, best_loss: 1.01988598 , best_losscd: 0.01878824
+Train 55, loss: 0.01875067
+best_epoch 54, best_loss: 1.01988598 , best_losscd: 0.01878824
+Train 56, loss: 0.01873744
+best_epoch 54, best_loss: 1.01988598 , best_losscd: 0.01878824
+Train 57, loss: 0.01872474
+best_epoch 54, best_loss: 1.01988598 , best_losscd: 0.01878824
+Train 58, loss: 0.01868586
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 59, loss: 0.01866847
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 60, loss: 0.01864588
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 61, loss: 0.01862279
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 62, loss: 0.01862189
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 63, loss: 0.01857866
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 64, loss: 0.01854555
+best_epoch 58, best_loss: 1.01093416 , best_losscd: 0.01869816
+Train 65, loss: 0.01851091
+best_epoch 65, best_loss: 1.00887233 , best_losscd: 0.01871731
+Train 66, loss: 0.01850218
+best_epoch 66, best_loss: 0.99664365 , best_losscd: 0.01861384
+Train 67, loss: 0.01847439
+best_epoch 67, best_loss: 0.99550612 , best_losscd: 0.01859983
+Train 68, loss: 0.01843602
+best_epoch 67, best_loss: 0.99550612 , best_losscd: 0.01859983
+Train 69, loss: 0.01844017
+best_epoch 67, best_loss: 0.99550612 , best_losscd: 0.01859983
+Train 70, loss: 0.01840980
+best_epoch 70, best_loss: 0.98608538 , best_losscd: 0.01848903
+Train 71, loss: 0.01841549
+best_epoch 70, best_loss: 0.98608538 , best_losscd: 0.01848903
+Train 72, loss: 0.01842115
+best_epoch 70, best_loss: 0.98608538 , best_losscd: 0.01848903
+Train 73, loss: 0.01834554
+best_epoch 70, best_loss: 0.98608538 , best_losscd: 0.01848903
+Train 74, loss: 0.01831225
+best_epoch 70, best_loss: 0.98608538 , best_losscd: 0.01848903
+Train 75, loss: 0.01830159
+best_epoch 75, best_loss: 0.97378885 , best_losscd: 0.01841041
+Train 76, loss: 0.01830167
+best_epoch 75, best_loss: 0.97378885 , best_losscd: 0.01841041
+Train 77, loss: 0.01826457
+best_epoch 75, best_loss: 0.97378885 , best_losscd: 0.01841041
+Train 78, loss: 0.01825451
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 79, loss: 0.01824687
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 80, loss: 0.01821993
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 81, loss: 0.01824589
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 82, loss: 0.01818140
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 83, loss: 0.01819432
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 84, loss: 0.01816921
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 85, loss: 0.01815001
+best_epoch 78, best_loss: 0.96160585 , best_losscd: 0.01830353
+Train 86, loss: 0.01811963
+best_epoch 86, best_loss: 0.95592090 , best_losscd: 0.01828651
+Train 87, loss: 0.01808690
+best_epoch 86, best_loss: 0.95592090 , best_losscd: 0.01828651
+Train 88, loss: 0.01810989
+best_epoch 88, best_loss: 0.95405652 , best_losscd: 0.01824739
+Train 89, loss: 0.01808147
+best_epoch 88, best_loss: 0.95405652 , best_losscd: 0.01824739
+Train 90, loss: 0.01805125
+best_epoch 88, best_loss: 0.95405652 , best_losscd: 0.01824739
+Train 91, loss: 0.01802417
+best_epoch 88, best_loss: 0.95405652 , best_losscd: 0.01824739
+Train 92, loss: 0.01803414
+best_epoch 88, best_loss: 0.95405652 , best_losscd: 0.01824739
+Train 93, loss: 0.01800259
+best_epoch 93, best_loss: 0.94292693 , best_losscd: 0.01819345
+Train 94, loss: 0.01797376
+best_epoch 93, best_loss: 0.94292693 , best_losscd: 0.01819345
+Train 95, loss: 0.01800857
+best_epoch 95, best_loss: 0.93550874 , best_losscd: 0.01813643
+Train 96, loss: 0.01797014
+best_epoch 95, best_loss: 0.93550874 , best_losscd: 0.01813643
+Train 97, loss: 0.01799354
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 98, loss: 0.01795750
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 99, loss: 0.01795826
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 100, loss: 0.01796077
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 101, loss: 0.01789485
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 102, loss: 0.01789607
+best_epoch 97, best_loss: 0.92991532 , best_losscd: 0.01811538
+Train 103, loss: 0.01789393
+best_epoch 103, best_loss: 0.92512428 , best_losscd: 0.01807361
+Train 104, loss: 0.01788351
+best_epoch 103, best_loss: 0.92512428 , best_losscd: 0.01807361
+Train 105, loss: 0.01787088
+best_epoch 105, best_loss: 0.92255889 , best_losscd: 0.01805825
+Train 106, loss: 0.01787170
+best_epoch 106, best_loss: 0.92145940 , best_losscd: 0.01806880
+Train 107, loss: 0.01788327
+best_epoch 106, best_loss: 0.92145940 , best_losscd: 0.01806880
+Train 108, loss: 0.01783238
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 109, loss: 0.01783501
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 110, loss: 0.01782203
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 111, loss: 0.01782078
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 112, loss: 0.01777669
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 113, loss: 0.01778930
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 114, loss: 0.01777548
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 115, loss: 0.01777400
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 116, loss: 0.01778307
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 117, loss: 0.01776760
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 118, loss: 0.01772044
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 119, loss: 0.01775077
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 120, loss: 0.01769338
+best_epoch 108, best_loss: 0.90660702 , best_losscd: 0.01791672
+Train 121, loss: 0.01770524
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 122, loss: 0.01768940
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 123, loss: 0.01768937
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 124, loss: 0.01766259
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 125, loss: 0.01769249
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 126, loss: 0.01767217
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 127, loss: 0.01766220
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 128, loss: 0.01767178
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 129, loss: 0.01762562
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 130, loss: 0.01762666
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 131, loss: 0.01761888
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 132, loss: 0.01761508
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 133, loss: 0.01759698
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 134, loss: 0.01759607
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 135, loss: 0.01760188
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 136, loss: 0.01759434
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 137, loss: 0.01757016
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 138, loss: 0.01755101
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 139, loss: 0.01753641
+best_epoch 121, best_loss: 0.89737976 , best_losscd: 0.01782887
+Train 140, loss: 0.01754487
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 141, loss: 0.01754345
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 142, loss: 0.01752667
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 143, loss: 0.01752034
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 144, loss: 0.01750286
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 145, loss: 0.01751450
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 146, loss: 0.01749626
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 147, loss: 0.01750681
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 148, loss: 0.01749249
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 149, loss: 0.01746818
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 150, loss: 0.01749841
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 151, loss: 0.01748203
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 152, loss: 0.01746109
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 153, loss: 0.01745680
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 154, loss: 0.01746044
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 155, loss: 0.01744853
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 156, loss: 0.01744880
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 157, loss: 0.01743072
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 158, loss: 0.01742246
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 159, loss: 0.01741484
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 160, loss: 0.01741039
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 161, loss: 0.01741344
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 162, loss: 0.01740719
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 163, loss: 0.01738568
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 164, loss: 0.01738189
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 165, loss: 0.01738217
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 166, loss: 0.01737228
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 167, loss: 0.01736583
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 168, loss: 0.01736411
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 169, loss: 0.01738123
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 170, loss: 0.01733454
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 171, loss: 0.01736756
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 172, loss: 0.01734846
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 173, loss: 0.01736427
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 174, loss: 0.01733296
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 175, loss: 0.01732521
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 176, loss: 0.01731580
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 177, loss: 0.01731453
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 178, loss: 0.01732319
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 179, loss: 0.01730890
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 180, loss: 0.01730929
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 181, loss: 0.01729866
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 182, loss: 0.01730619
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 183, loss: 0.01730121
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 184, loss: 0.01727900
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 185, loss: 0.01728177
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 186, loss: 0.01728119
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 187, loss: 0.01728021
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 188, loss: 0.01727591
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 189, loss: 0.01728020
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 190, loss: 0.01725807
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 191, loss: 0.01725509
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 192, loss: 0.01724470
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 193, loss: 0.01724971
+best_epoch 140, best_loss: 0.88114703 , best_losscd: 0.01769104
+Train 194, loss: 0.01724420
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 195, loss: 0.01724044
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 196, loss: 0.01723993
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 197, loss: 0.01722587
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 198, loss: 0.01723000
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 199, loss: 0.01722515
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+Train 200, loss: 0.01721625
+best_epoch 194, best_loss: 0.87479952 , best_losscd: 0.01768418
+<config.params object at 0x7f872b0bc370>
+Train 1, loss: 0.02192887
+best_epoch 1, best_loss: 1.47447536 , best_losscd: 0.02041689
+Train 2, loss: 0.01946352
+best_epoch 2, best_loss: 1.21789048 , best_losscd: 0.01908400
+Train 3, loss: 0.01891165
+best_epoch 3, best_loss: 1.11955261 , best_losscd: 0.01866497
+Train 4, loss: 0.01849002
+best_epoch 3, best_loss: 1.11955261 , best_losscd: 0.01866497
+Train 5, loss: 0.01828853
+best_epoch 5, best_loss: 1.02707385 , best_losscd: 0.01807776
+Train 6, loss: 0.01800740
+best_epoch 6, best_loss: 1.00566043 , best_losscd: 0.01797822
+Train 7, loss: 0.01784675
+best_epoch 7, best_loss: 0.97348928 , best_losscd: 0.01771404
+Train 8, loss: 0.01769453
+best_epoch 7, best_loss: 0.97348928 , best_losscd: 0.01771404
+Train 9, loss: 0.01755616
+best_epoch 7, best_loss: 0.97348928 , best_losscd: 0.01771404
+Train 10, loss: 0.01742100
+best_epoch 10, best_loss: 0.91530026 , best_losscd: 0.01735067
+Train 11, loss: 0.01732008
+best_epoch 11, best_loss: 0.90896607 , best_losscd: 0.01728898
+Train 12, loss: 0.01724409
+best_epoch 11, best_loss: 0.90896607 , best_losscd: 0.01728898
+Train 13, loss: 0.01714427
+best_epoch 13, best_loss: 0.87764205 , best_losscd: 0.01710938
+Train 14, loss: 0.01705461
+best_epoch 14, best_loss: 0.86865087 , best_losscd: 0.01707245
+Train 15, loss: 0.01698219
+best_epoch 14, best_loss: 0.86865087 , best_losscd: 0.01707245
+Train 16, loss: 0.01691549
+best_epoch 16, best_loss: 0.86205016 , best_losscd: 0.01695595
+Train 17, loss: 0.01685503
+best_epoch 17, best_loss: 0.84330606 , best_losscd: 0.01687650
+Train 18, loss: 0.01677018
+best_epoch 17, best_loss: 0.84330606 , best_losscd: 0.01687650
+Train 19, loss: 0.01673048
+best_epoch 19, best_loss: 0.82860959 , best_losscd: 0.01675987
+Train 20, loss: 0.01672060
+best_epoch 20, best_loss: 0.82183553 , best_losscd: 0.01671581
+Train 21, loss: 0.01664876
+best_epoch 21, best_loss: 0.81205596 , best_losscd: 0.01659176
+Train 22, loss: 0.01659955
+best_epoch 22, best_loss: 0.80821505 , best_losscd: 0.01656294
+Train 23, loss: 0.01655591
+best_epoch 23, best_loss: 0.79070010 , best_losscd: 0.01645417
+Train 24, loss: 0.01649235
+best_epoch 23, best_loss: 0.79070010 , best_losscd: 0.01645417
+Train 25, loss: 0.01647156
+best_epoch 25, best_loss: 0.78655087 , best_losscd: 0.01637688
+Train 26, loss: 0.01640739
+best_epoch 25, best_loss: 0.78655087 , best_losscd: 0.01637688
+Train 27, loss: 0.01637257
+best_epoch 25, best_loss: 0.78655087 , best_losscd: 0.01637688
+Train 28, loss: 0.01632446
+best_epoch 28, best_loss: 0.78373054 , best_losscd: 0.01639189
+Train 29, loss: 0.01631534
+best_epoch 29, best_loss: 0.77593478 , best_losscd: 0.01635028
+Train 30, loss: 0.01626045
+best_epoch 30, best_loss: 0.77035208 , best_losscd: 0.01628836
+Train 31, loss: 0.01624650
+best_epoch 31, best_loss: 0.75742568 , best_losscd: 0.01623437
+Train 32, loss: 0.01620134
+best_epoch 31, best_loss: 0.75742568 , best_losscd: 0.01623437
+Train 33, loss: 0.01617951
+best_epoch 33, best_loss: 0.75550699 , best_losscd: 0.01622707
+Train 34, loss: 0.01615866
+best_epoch 33, best_loss: 0.75550699 , best_losscd: 0.01622707
+Train 35, loss: 0.01616293
+best_epoch 33, best_loss: 0.75550699 , best_losscd: 0.01622707
+Train 36, loss: 0.01611505
+best_epoch 33, best_loss: 0.75550699 , best_losscd: 0.01622707
+Train 37, loss: 0.01606819
+best_epoch 37, best_loss: 0.74981241 , best_losscd: 0.01618178
+Train 38, loss: 0.01605237
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 39, loss: 0.01602538
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 40, loss: 0.01600321
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 41, loss: 0.01599968
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 42, loss: 0.01596695
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 43, loss: 0.01594412
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 44, loss: 0.01591142
+best_epoch 38, best_loss: 0.73991151 , best_losscd: 0.01603056
+Train 45, loss: 0.01588969
+best_epoch 45, best_loss: 0.73659512 , best_losscd: 0.01605495
+Train 46, loss: 0.01586799
+best_epoch 45, best_loss: 0.73659512 , best_losscd: 0.01605495
+Train 47, loss: 0.01583604
+best_epoch 47, best_loss: 0.72703944 , best_losscd: 0.01596619
+Train 48, loss: 0.01582342
+best_epoch 48, best_loss: 0.72583539 , best_losscd: 0.01595981
+Train 49, loss: 0.01581388
+best_epoch 48, best_loss: 0.72583539 , best_losscd: 0.01595981
+Train 50, loss: 0.01579607
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 51, loss: 0.01577383
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 52, loss: 0.01575143
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 53, loss: 0.01572530
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 54, loss: 0.01569985
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 55, loss: 0.01569428
+best_epoch 50, best_loss: 0.72447298 , best_losscd: 0.01596681
+Train 56, loss: 0.01567184
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 57, loss: 0.01566684
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 58, loss: 0.01567477
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 59, loss: 0.01563805
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 60, loss: 0.01564073
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 61, loss: 0.01564858
+best_epoch 56, best_loss: 0.70530375 , best_losscd: 0.01579216
+Train 62, loss: 0.01561994
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 63, loss: 0.01561902
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 64, loss: 0.01559902
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 65, loss: 0.01556084
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 66, loss: 0.01555096
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 67, loss: 0.01554550
+best_epoch 62, best_loss: 0.70090551 , best_losscd: 0.01580507
+Train 68, loss: 0.01555135
+best_epoch 68, best_loss: 0.69798415 , best_losscd: 0.01581584
+Train 69, loss: 0.01553542
+best_epoch 68, best_loss: 0.69798415 , best_losscd: 0.01581584
+Train 70, loss: 0.01553112
+best_epoch 68, best_loss: 0.69798415 , best_losscd: 0.01581584
+Train 71, loss: 0.01552205
+best_epoch 68, best_loss: 0.69798415 , best_losscd: 0.01581584
+Train 72, loss: 0.01549384
+best_epoch 72, best_loss: 0.69088141 , best_losscd: 0.01573161
+Train 73, loss: 0.01548634
+best_epoch 72, best_loss: 0.69088141 , best_losscd: 0.01573161
+Train 74, loss: 0.01547875
+best_epoch 74, best_loss: 0.67223028 , best_losscd: 0.01555103
+Train 75, loss: 0.01544280
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 76, loss: 0.01542896
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 77, loss: 0.01541347
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 78, loss: 0.01540702
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 79, loss: 0.01539950
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 80, loss: 0.01538766
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 81, loss: 0.01538620
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 82, loss: 0.01535893
+best_epoch 75, best_loss: 0.66549561 , best_losscd: 0.01548489
+Train 83, loss: 0.01534126
+best_epoch 83, best_loss: 0.66096386 , best_losscd: 0.01545741
+Train 84, loss: 0.01534724
+best_epoch 83, best_loss: 0.66096386 , best_losscd: 0.01545741
+Train 85, loss: 0.01533678
+best_epoch 83, best_loss: 0.66096386 , best_losscd: 0.01545741
+Train 86, loss: 0.01534148
+best_epoch 83, best_loss: 0.66096386 , best_losscd: 0.01545741
+Train 87, loss: 0.01532712
+best_epoch 83, best_loss: 0.66096386 , best_losscd: 0.01545741
+Train 88, loss: 0.01535039
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 89, loss: 0.01531603
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 90, loss: 0.01528391
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 91, loss: 0.01527803
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 92, loss: 0.01528616
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 93, loss: 0.01527562
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 94, loss: 0.01527228
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 95, loss: 0.01531366
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 96, loss: 0.01527948
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 97, loss: 0.01525677
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 98, loss: 0.01526218
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 99, loss: 0.01525978
+best_epoch 88, best_loss: 0.65672423 , best_losscd: 0.01541535
+Train 100, loss: 0.01522502
+best_epoch 100, best_loss: 0.64919834 , best_losscd: 0.01539759
+Train 101, loss: 0.01523177
+best_epoch 100, best_loss: 0.64919834 , best_losscd: 0.01539759
+Train 102, loss: 0.01521283
+best_epoch 100, best_loss: 0.64919834 , best_losscd: 0.01539759
+Train 103, loss: 0.01521352
+best_epoch 100, best_loss: 0.64919834 , best_losscd: 0.01539759
+Train 104, loss: 0.01520692
+best_epoch 104, best_loss: 0.63963189 , best_losscd: 0.01528655
+Train 105, loss: 0.01519716
+best_epoch 104, best_loss: 0.63963189 , best_losscd: 0.01528655
+Train 106, loss: 0.01519642
+best_epoch 104, best_loss: 0.63963189 , best_losscd: 0.01528655
+Train 107, loss: 0.01518907
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 108, loss: 0.01518157
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 109, loss: 0.01517360
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 110, loss: 0.01517545
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 111, loss: 0.01518499
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 112, loss: 0.01520122
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 113, loss: 0.01516054
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 114, loss: 0.01514450
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 115, loss: 0.01515609
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 116, loss: 0.01518270
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 117, loss: 0.01520882
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 118, loss: 0.01521978
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 119, loss: 0.01519866
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 120, loss: 0.01516588
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 121, loss: 0.01513898
+best_epoch 107, best_loss: 0.63715393 , best_losscd: 0.01522828
+Train 122, loss: 0.01513912
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 123, loss: 0.01514447
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 124, loss: 0.01516434
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 125, loss: 0.01519221
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 126, loss: 0.01518175
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 127, loss: 0.01516815
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 128, loss: 0.01518065
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 129, loss: 0.01517421
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 130, loss: 0.01523089
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 131, loss: 0.01519314
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 132, loss: 0.01515055
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 133, loss: 0.01515355
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 134, loss: 0.01516804
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 135, loss: 0.01515909
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 136, loss: 0.01512460
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 137, loss: 0.01512941
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 138, loss: 0.01518869
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 139, loss: 0.01520277
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 140, loss: 0.01524816
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 141, loss: 0.01527088
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 142, loss: 0.01520882
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 143, loss: 0.01518788
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+Train 144, loss: 0.01516928
+best_epoch 122, best_loss: 0.62864697 , best_losscd: 0.01518643
+<config.params object at 0x7f66afc38370>
+Train 1, loss: 0.03791350
+best_epoch 1, best_loss: 3.90737958 , best_losscd: 0.03599702
+Train 2, loss: 0.03387899
+best_epoch 2, best_loss: 3.57376384 , best_losscd: 0.03479252
+Train 3, loss: 0.03315937
+best_epoch 3, best_loss: 3.25816186 , best_losscd: 0.03339686
+Train 4, loss: 0.03261351
+best_epoch 4, best_loss: 3.17004427 , best_losscd: 0.03297801
+Train 5, loss: 0.03225950
+best_epoch 4, best_loss: 3.17004427 , best_losscd: 0.03297801
+Train 6, loss: 0.03189364
+best_epoch 4, best_loss: 3.17004427 , best_losscd: 0.03297801
+Train 7, loss: 0.03168815
+best_epoch 7, best_loss: 3.16803584 , best_losscd: 0.03334658
+Train 8, loss: 0.03145308
+best_epoch 7, best_loss: 3.16803584 , best_losscd: 0.03334658
+Train 9, loss: 0.03126379
+best_epoch 7, best_loss: 3.16803584 , best_losscd: 0.03334658
+<config.params object at 0x7f2983792370>
+Train 1, loss: 0.03767475
+best_epoch 1, best_loss: 3.67672723 , best_losscd: 0.03508499
+Train 2, loss: 0.03365113
+best_epoch 2, best_loss: 3.21405938 , best_losscd: 0.03314883
+Train 3, loss: 0.03293470
+best_epoch 3, best_loss: 3.12404002 , best_losscd: 0.03276167
+Train 4, loss: 0.03241436
+best_epoch 3, best_loss: 3.12404002 , best_losscd: 0.03276167
+Train 5, loss: 0.03208028
+best_epoch 3, best_loss: 3.12404002 , best_losscd: 0.03276167
+Train 6, loss: 0.03173219
+best_epoch 3, best_loss: 3.12404002 , best_losscd: 0.03276167
+Train 7, loss: 0.03151916
+best_epoch 3, best_loss: 3.12404002 , best_losscd: 0.03276167
+Train 8, loss: 0.03129475
+best_epoch 8, best_loss: 2.90980804 , best_losscd: 0.03188675
+Train 9, loss: 0.03116309
+best_epoch 9, best_loss: 2.71604226 , best_losscd: 0.03113587
+Train 10, loss: 0.03090450
+best_epoch 10, best_loss: 2.66040653 , best_losscd: 0.03078770
+Train 11, loss: 0.03073739
+best_epoch 10, best_loss: 2.66040653 , best_losscd: 0.03078770
+Train 12, loss: 0.03062155
+best_epoch 10, best_loss: 2.66040653 , best_losscd: 0.03078770
+Train 13, loss: 0.03047090
+best_epoch 10, best_loss: 2.66040653 , best_losscd: 0.03078770
+Train 14, loss: 0.03027423
+best_epoch 10, best_loss: 2.66040653 , best_losscd: 0.03078770
+Train 15, loss: 0.03013899
+best_epoch 15, best_loss: 2.58839673 , best_losscd: 0.03073555
+Train 16, loss: 0.02999226
+best_epoch 16, best_loss: 2.50608694 , best_losscd: 0.03022934
+Train 17, loss: 0.02983132
+best_epoch 16, best_loss: 2.50608694 , best_losscd: 0.03022934
+Train 18, loss: 0.02983402
+best_epoch 18, best_loss: 2.49929932 , best_losscd: 0.03024466
+Train 19, loss: 0.02976355
+best_epoch 18, best_loss: 2.49929932 , best_losscd: 0.03024466
+Train 20, loss: 0.02971221
+best_epoch 20, best_loss: 2.49189122 , best_losscd: 0.03017853
+Train 21, loss: 0.02965961
+best_epoch 20, best_loss: 2.49189122 , best_losscd: 0.03017853
+Train 22, loss: 0.02949093
+best_epoch 22, best_loss: 2.45629925 , best_losscd: 0.02983875
+Train 23, loss: 0.02933896
+<config.params object at 0x7fad3c90a370>
+Train 1, loss: 0.03855521
+<config.params object at 0x7fd865f34370>
+Train 1, loss: 0.03757412
+best_epoch 1, best_loss: 3.62189179 , best_losscd: 0.03494069
+Train 2, loss: 0.03398983
+best_epoch 2, best_loss: 3.34806486 , best_losscd: 0.03376690
+Train 3, loss: 0.03308134
+best_epoch 3, best_loss: 3.21033412 , best_losscd: 0.03320702
+Train 4, loss: 0.03238488
+best_epoch 4, best_loss: 3.08000605 , best_losscd: 0.03291507
+Train 5, loss: 0.03201648
+best_epoch 5, best_loss: 2.94579337 , best_losscd: 0.03224910
+Train 6, loss: 0.03164167
+best_epoch 5, best_loss: 2.94579337 , best_losscd: 0.03224910
+Train 7, loss: 0.03140986
+best_epoch 5, best_loss: 2.94579337 , best_losscd: 0.03224910
+Train 8, loss: 0.03115326
+best_epoch 8, best_loss: 2.72231233 , best_losscd: 0.03109838
+Train 9, loss: 0.03098843
+best_epoch 8, best_loss: 2.72231233 , best_losscd: 0.03109838
+Train 10, loss: 0.03075478
+best_epoch 10, best_loss: 2.70126934 , best_losscd: 0.03105988
+Train 11, loss: 0.03057591
+best_epoch 10, best_loss: 2.70126934 , best_losscd: 0.03105988
+Train 12, loss: 0.03051298
+best_epoch 10, best_loss: 2.70126934 , best_losscd: 0.03105988
+Train 13, loss: 0.03034126
+best_epoch 13, best_loss: 2.59861126 , best_losscd: 0.03058259
+Train 14, loss: 0.03022361
+best_epoch 14, best_loss: 2.55631935 , best_losscd: 0.03030005
+Train 15, loss: 0.03008383
+best_epoch 15, best_loss: 2.47611564 , best_losscd: 0.02995738
+Train 16, loss: 0.03015682
+best_epoch 15, best_loss: 2.47611564 , best_losscd: 0.02995738
+Train 17, loss: 0.02979366
+best_epoch 17, best_loss: 2.44319468 , best_losscd: 0.02978654
+Train 18, loss: 0.02968816
+best_epoch 17, best_loss: 2.44319468 , best_losscd: 0.02978654
+Train 19, loss: 0.02951264
+best_epoch 17, best_loss: 2.44319468 , best_losscd: 0.02978654
+Train 20, loss: 0.02948747
+best_epoch 17, best_loss: 2.44319468 , best_losscd: 0.02978654
+Train 21, loss: 0.02935880
+best_epoch 21, best_loss: 2.35894762 , best_losscd: 0.02935358
+Train 22, loss: 0.02920079
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 23, loss: 0.02911751
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 24, loss: 0.02908942
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 25, loss: 0.02954901
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 26, loss: 0.02935583
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 27, loss: 0.02905986
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 28, loss: 0.02912919
+best_epoch 22, best_loss: 2.29669298 , best_losscd: 0.02902382
+Train 29, loss: 0.02900513
+best_epoch 29, best_loss: 2.28911986 , best_losscd: 0.02911542
+Train 30, loss: 0.02879427
+best_epoch 29, best_loss: 2.28911986 , best_losscd: 0.02911542
+Train 31, loss: 0.02884688
+best_epoch 29, best_loss: 2.28911986 , best_losscd: 0.02911542
+Train 32, loss: 0.02892535
+best_epoch 29, best_loss: 2.28911986 , best_losscd: 0.02911542
+Train 33, loss: 0.02870475
+best_epoch 29, best_loss: 2.28911986 , best_losscd: 0.02911542
+Train 34, loss: 0.02860258
+best_epoch 34, best_loss: 2.26150677 , best_losscd: 0.02911292
+Train 35, loss: 0.02846706
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 36, loss: 0.02834366
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 37, loss: 0.02838131
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 38, loss: 0.02846375
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 39, loss: 0.02836216
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 40, loss: 0.02832485
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 41, loss: 0.02821842
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 42, loss: 0.02832525
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 43, loss: 0.02818839
+best_epoch 35, best_loss: 2.19493151 , best_losscd: 0.02853055
+Train 44, loss: 0.02814605
+best_epoch 44, best_loss: 2.19145756 , best_losscd: 0.02847713
+Train 45, loss: 0.02806911
+best_epoch 45, best_loss: 2.13410841 , best_losscd: 0.02826360
+Train 46, loss: 0.02790173
+best_epoch 45, best_loss: 2.13410841 , best_losscd: 0.02826360
+Train 47, loss: 0.02787074
+best_epoch 45, best_loss: 2.13410841 , best_losscd: 0.02826360
+Train 48, loss: 0.02782825
+best_epoch 45, best_loss: 2.13410841 , best_losscd: 0.02826360
+Train 49, loss: 0.02778789
+best_epoch 45, best_loss: 2.13410841 , best_losscd: 0.02826360
+Train 50, loss: 0.02770149
+best_epoch 50, best_loss: 2.12621667 , best_losscd: 0.02825908
+Train 51, loss: 0.02769499
+best_epoch 50, best_loss: 2.12621667 , best_losscd: 0.02825908
+Train 52, loss: 0.02764896
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 53, loss: 0.02760481
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 54, loss: 0.02759746
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 55, loss: 0.02741796
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 56, loss: 0.02738457
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 57, loss: 0.02733502
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 58, loss: 0.02727089
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 59, loss: 0.02723659
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 60, loss: 0.02722581
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 61, loss: 0.02720004
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 62, loss: 0.02719172
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 63, loss: 0.02707521
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 64, loss: 0.02709240
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 65, loss: 0.02715459
+best_epoch 52, best_loss: 2.09129836 , best_losscd: 0.02797227
+Train 66, loss: 0.02708666
+best_epoch 66, best_loss: 2.07466623 , best_losscd: 0.02793629
+Train 67, loss: 0.02699006
+best_epoch 66, best_loss: 2.07466623 , best_losscd: 0.02793629
+Train 68, loss: 0.02696102
+best_epoch 66, best_loss: 2.07466623 , best_losscd: 0.02793629
+Train 69, loss: 0.02699361
+best_epoch 66, best_loss: 2.07466623 , best_losscd: 0.02793629
+Train 70, loss: 0.02691965
+best_epoch 70, best_loss: 2.06218772 , best_losscd: 0.02807528
+Train 71, loss: 0.02682975
+best_epoch 70, best_loss: 2.06218772 , best_losscd: 0.02807528
+Train 72, loss: 0.02703533
+best_epoch 70, best_loss: 2.06218772 , best_losscd: 0.02807528
+Train 73, loss: 0.02707044
+best_epoch 73, best_loss: 2.04595712 , best_losscd: 0.02794194
+Train 74, loss: 0.02693062
+best_epoch 73, best_loss: 2.04595712 , best_losscd: 0.02794194
+Train 75, loss: 0.02710991
+best_epoch 73, best_loss: 2.04595712 , best_losscd: 0.02794194
+Train 76, loss: 0.02685162
+best_epoch 73, best_loss: 2.04595712 , best_losscd: 0.02794194
+Train 77, loss: 0.02678013
+best_epoch 77, best_loss: 1.98275687 , best_losscd: 0.02742167
+Train 78, loss: 0.02669476
+best_epoch 77, best_loss: 1.98275687 , best_losscd: 0.02742167
+Train 79, loss: 0.02689380
+best_epoch 77, best_loss: 1.98275687 , best_losscd: 0.02742167
+Train 80, loss: 0.02687270
+best_epoch 77, best_loss: 1.98275687 , best_losscd: 0.02742167
+Train 81, loss: 0.02665831
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 82, loss: 0.02660460
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 83, loss: 0.02657196
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 84, loss: 0.02712494
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 85, loss: 0.02653900
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 86, loss: 0.02653691
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 87, loss: 0.02659214
+best_epoch 81, best_loss: 1.97622847 , best_losscd: 0.02744199
+Train 88, loss: 0.02651554
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 89, loss: 0.02658668
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 90, loss: 0.02656582
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 91, loss: 0.02645971
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 92, loss: 0.02642261
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 93, loss: 0.02637552
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 94, loss: 0.02635189
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 95, loss: 0.02636531
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 96, loss: 0.02634756
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 97, loss: 0.02630526
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 98, loss: 0.02632633
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 99, loss: 0.02640507
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 100, loss: 0.02630416
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 101, loss: 0.02626661
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 102, loss: 0.02624771
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 103, loss: 0.02622659
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 104, loss: 0.02622286
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 105, loss: 0.02619791
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 106, loss: 0.02617096
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 107, loss: 0.02615256
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 108, loss: 0.02613727
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 109, loss: 0.02611805
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 110, loss: 0.02611610
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 111, loss: 0.02609436
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 112, loss: 0.02603849
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 113, loss: 0.02602610
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 114, loss: 0.02598949
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 115, loss: 0.02598261
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 116, loss: 0.02597640
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 117, loss: 0.02596851
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 118, loss: 0.02594678
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 119, loss: 0.02597960
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 120, loss: 0.02592430
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 121, loss: 0.02595306
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 122, loss: 0.02590636
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 123, loss: 0.02596766
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 124, loss: 0.02591310
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 125, loss: 0.02593417
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 126, loss: 0.02587363
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 127, loss: 0.02587606
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 128, loss: 0.02583800
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 129, loss: 0.02583251
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 130, loss: 0.02583199
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 131, loss: 0.02582802
+best_epoch 88, best_loss: 1.92452776 , best_losscd: 0.02711306
+Train 132, loss: 0.02614960
