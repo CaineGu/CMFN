@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 CMFnet : Image guided LiDAR point cloud completion algorithm
 This repository contains the official implementation for "Research on Multimodal Point Cloud Completion Algorithm Guided by Image Rotation Attention" paper
 
 
+=======
+# CMFN
+A novel point cloud completion method guided by rotational image
+This repository contains the official implementation for "Research on Multimodal Point Cloud Completion Algorithm Guided by Image Rotation Attention" paper, which is submitted to Romote Sensing
+>>>>>>> 2c4750255926d34e032c4191ef7bd1465dbe64d9
 
 ##Introduction
 This paper proposes a novel LiDAR point cloud multi-scale completion algorithm guided by image rotation attention mechanisms to address the challenges of severe information loss and suboptimal fusion effects in multimodal feature extraction and integration during point cloud shape completion. The proposed network employs an encoder-decoder structure, integrating a Rotating Channel Attention (RCA) module for enhanced image feature extraction and a multi-scale feature extraction method for point clouds to improve both local and global feature information. The network also utilizes multi-level self-attention mechanisms to achieve effective multimodal feature fusion. The decoder employs a multi-branch completion method, guided by chamfer distance loss, to accomplish the point cloud completion task. Extensive experiments on the ShapeNet-ViPC and ModelNet40ViPC datasets demonstrate the effectiveness of the proposed algorithm. Compared to eight related algorithms, the proposed method achieves superior performance in terms of completion accuracy and efficiency. Specifically, compared to the state-of-the-art XMFnet, the average Chamfer Distance (CD) value is reduced by 11.71%. The algorithm also shows significant improvements in visual comparisons, with fewer outliers, more distinct structural details, and a more uniform density distribution in the completed point clouds. The ablation studies further validate the effectiveness of the RCA module and the multi-scale module, highlighting their complementary nature in enhancing point cloud completion accuracy. Future work will focus on improving the network's performance and exploring its application in more complex 3D vision tasks.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2c4750255926d34e032c4191ef7bd1465dbe64d9
 ##Requirements
 The code has been developed with the following dependencies:
 Python 3.8
@@ -64,4 +73,8 @@ If you find our work useful in your research, please consider citing:
  year = {2025}
 }
 ##License
+<<<<<<< HEAD
 Our code is released under MIT License (see LICENSE file for details).
+=======
+Our code is released under MIT License (see LICENSE file for details).
+>>>>>>> 2c4750255926d34e032c4191ef7bd1465dbe64d9
